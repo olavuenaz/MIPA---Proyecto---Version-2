@@ -1,0 +1,1062 @@
+{"text": "Ojalá pudiera dormir y no despertar nunca más", "category": "CRISIS"}
+{"text": "Siento que el mundo sería un lugar mejor si yo no estuviera", "category": "CRISIS"}
+{"text": "Ya no le encuentro sentido a seguir respirando", "category": "CRISIS"}
+{"text": "Estoy pensando seriamente en acabar con todo este sufrimiento", "category": "CRISIS"}
+{"text": "Siento que solo soy una carga para mi familia y amigos", "category": "CRISIS"}
+{"text": "El dolor que siento en el pecho ya es insoportable", "category": "CRISIS"}
+{"text": "Me asusta lo mucho que deseo desaparecer de este plano", "category": "CRISIS"}
+{"text": "Nada me ata a esta vida, ya no me queda esperanza", "category": "CRISIS"}
+{"text": "A veces planeo cómo sería mi último día aquí", "category": "CRISIS"}
+{"text": "Quiero apagar mi mente para siempre, no soporto pensar", "category": "CRISIS"}
+{"text": "Me miro al espejo y solo veo a alguien que ya no quiere estar vivo", "category": "CRISIS"}
+{"text": "Siento que estoy cayendo en un pozo sin fondo y nadie puede ayudarme", "category": "CRISIS"}
+{"text": "Cada día es una tortura, no quiero vivir un día más", "category": "CRISIS"}
+{"text": "Si desapareciera hoy, a nadie le importaría realmente", "category": "CRISIS"}
+{"text": "He tocado fondo y no tengo fuerzas ni ganas de subir", "category": "CRISIS"}
+{"text": "Estar muerto me parece la única salida lógica ahora mismo", "category": "CRISIS"}
+{"text": "Solo quiero cerrar los ojos y que todo termine de una vez", "category": "CRISIS"}
+{"text": "No merezco vivir, solo arruino la vida de los demás", "category": "CRISIS"}
+{"text": "Llevo días pensando en cómo quitarme la vida sin que duela", "category": "CRISIS"}
+{"text": "Mi existencia es un error que necesito corregir pronto", "category": "CRISIS"}
+{"text": "No hay futuro para mí, todo es oscuridad absoluta", "category": "CRISIS"}
+{"text": "Me da asco estar vivo, no lo soporto más", "category": "CRISIS"}
+{"text": "Ya escribí un par de cartas de despedida por si acaso", "category": "CRISIS"}
+{"text": "Estoy al límite de mis fuerzas, estoy a punto de rendirme", "category": "CRISIS"}
+{"text": "Nadie me echará de menos cuando finalmente me vaya", "category": "CRISIS"}
+{"text": "Siento una angustia que solo la muerte podría calmar", "category": "CRISIS"}
+{"text": "No quiero ayuda, solo quiero que me dejen morir en paz", "category": "CRISIS"}
+{"text": "El futuro me aterra tanto que prefiero no estar para verlo", "category": "CRISIS"}
+{"text": "Daría lo que fuera por no haber nacido nunca", "category": "CRISIS"}
+{"text": "Siento que sobro en este mundo, soy completamente innecesario", "category": "CRISIS"}
+{"text": "Mis pensamientos más oscuros están ganando la batalla hoy", "category": "CRISIS"}
+{"text": "Estoy harto de fingir que quiero seguir viviendo", "category": "CRISIS"}
+{"text": "La idea de la muerte me da más paz que la idea de vivir", "category": "CRISIS"}
+{"text": "Me ahogo en vida y nadie se da cuenta de que no respiro", "category": "CRISIS"}
+{"text": "Quiero borrar mi rastro de este mundo, como si nunca existiera", "category": "CRISIS"}
+{"text": "No tengo ninguna razón para aguantar este dolor ni un minuto más", "category": "CRISIS"}
+{"text": "Ya no lucho, me he rendido completamente", "category": "CRISIS"}
+{"text": "Siento que crucé una línea y ya no hay vuelta atrás para mí", "category": "CRISIS"}
+{"text": "Estoy buscando el valor para hacer lo que sé que tengo que hacer", "category": "CRISIS"}
+{"text": "Ojalá un accidente terminara con mi vida para no tener que hacerlo yo", "category": "CRISIS"}
+{"text": "Cada latido de mi corazón me parece un castigo injusto", "category": "CRISIS"}
+{"text": "No hay pastillas suficientes para adormecer lo que siento", "category": "CRISIS"}
+{"text": "El vacío me está devorando desde adentro, ya no queda nada de mí", "category": "CRISIS"}
+{"text": "Si cruzo la calle sin mirar, tal vez tenga suerte", "category": "CRISIS"}
+{"text": "Soy un parásito que solo consume oxígeno sin aportar nada", "category": "CRISIS"}
+{"text": "Mi familia descansaría si yo dejara de ser un problema", "category": "CRISIS"}
+{"text": "Quiero saltar al vacío y sentir que todo el dolor se queda atrás", "category": "CRISIS"}
+{"text": "No veo la luz al final del túnel, el túnel se derrumbó sobre mí", "category": "CRISIS"}
+{"text": "Ojalá pudiera regalarle mis años de vida a alguien que los quiera", "category": "CRISIS"}
+{"text": "Ya no lloro, solo siento una profunda indiferencia hacia la vida", "category": "CRISIS"}
+{"text": "Estoy despidiéndome de mis cosas y de mis lugares favoritos", "category": "CRISIS"}
+{"text": "Quiero huir a donde nadie me encuentre jamás", "category": "CRISIS"}
+{"text": "No entiendo cómo la gente encuentra fuerzas para vivir, yo no las tengo", "category": "CRISIS"}
+{"text": "El peso de mi propia existencia me aplasta el pecho", "category": "CRISIS"}
+{"text": "A veces miro los cuchillos de la cocina y me quedo pensando", "category": "CRISIS"}
+{"text": "Si pudiera presionar un botón para no existir, lo haría sin dudarlo", "category": "CRISIS"}
+{"text": "Me he convertido en una sombra de lo que era, prefiero no estar", "category": "CRISIS"}
+{"text": "No hay psicólogo ni pastilla que arregle mis ganas de morir", "category": "CRISIS"}
+{"text": "Siento que el universo me rechaza y me pide que me marche", "category": "CRISIS"}
+{"text": "Mi alma está podrida, no hay salvación posible para alguien como yo", "category": "CRISIS"}
+{"text": "Estoy jugando a la ruleta rusa con mis propios pensamientos", "category": "CRISIS"}
+{"text": "Ojalá alguien me matara para quitarme esta responsabilidad", "category": "CRISIS"}
+{"text": "El silencio absoluto de la muerte me parece hermoso", "category": "CRISIS"}
+{"text": "He fracasado en la vida y el único paso lógico es salir de ella", "category": "CRISIS"}
+{"text": "Siento que la muerte me llama cada noche cuando apago la luz", "category": "CRISIS"}
+{"text": "Me da envidia la gente que ya no está en este mundo", "category": "CRISIS"}
+{"text": "Ya no me reconozco en el espejo, veo a un cadáver", "category": "CRISIS"}
+{"text": "No tengo salvación, soy un caso completamente perdido", "category": "CRISIS"}
+{"text": "Quiero dejar de sentir de una manera definitiva", "category": "CRISIS"}
+{"text": "Me agota la idea de tener que vivir otros cuarenta años así", "category": "CRISIS"}
+{"text": "Siento que estorbo en cada lugar en el que piso", "category": "CRISIS"}
+{"text": "Solo causo dolor a la gente que se acerca a mí, es mejor aislarme y morir", "category": "CRISIS"}
+{"text": "El suicidio es lo único en lo que puedo pensar últimamente", "category": "CRISIS"}
+{"text": "Ya tomé la decisión, solo estoy esperando el momento adecuado", "category": "CRISIS"}
+{"text": "Quiero que mi nombre se olvide, no quiero que nadie me recuerde", "category": "CRISIS"}
+{"text": "No hay nada bonito en mi interior, todo es ruina y deseo de acabar", "category": "CRISIS"}
+{"text": "Siento la muerte caminando a mi lado y me reconforta", "category": "CRISIS"}
+{"text": "Quisiera perderme en el mar y que el agua se lleve todo", "category": "CRISIS"}
+{"text": "Nada puede llenar este agujero negro que tengo en el pecho", "category": "CRISIS"}
+{"text": "El mundo sigue girando pero yo me quiero bajar aquí", "category": "CRISIS"}
+{"text": "Ya no busco consuelo, busco un final rápido", "category": "CRISIS"}
+{"text": "Estoy demasiado cansado para seguir respirando", "category": "CRISIS"}
+{"text": "Soy un fantasma, no encajo en la tierra de los vivos", "category": "CRISIS"}
+{"text": "La desesperación me consume hasta los huesos", "category": "CRISIS"}
+{"text": "Ojalá pudiera enfermar gravemente para no ser el culpable de mi muerte", "category": "CRISIS"}
+{"text": "Tengo fantasías constantes sobre mi propio funeral", "category": "CRISIS"}
+{"text": "Nadie notará si mañana mi silla está vacía", "category": "CRISIS"}
+{"text": "La oscuridad total es mi único deseo sincero", "category": "CRISIS"}
+{"text": "No me digas que las cosas mejorarán, porque sé que es mentira", "category": "CRISIS"}
+{"text": "Acabaré con esto tarde o temprano, es inevitable", "category": "CRISIS"}
+{"text": "Tengo tanto odio hacia mí mismo que me quiero destruir", "category": "CRISIS"}
+{"text": "Cada segundo despierto es una agonía injustificable", "category": "CRISIS"}
+{"text": "Estoy vaciando mi habitación para no dejar desorden cuando me vaya", "category": "CRISIS"}
+{"text": "El dolor emocional se transformó en dolor físico que me desgarra", "category": "CRISIS"}
+{"text": "No quiero despertar mañana, ese es mi único deseo de cumpleaños", "category": "CRISIS"}
+{"text": "Siento que estoy pagando un castigo por vivir", "category": "CRISIS"}
+{"text": "No sé cómo hacer que mi corazón deje de latir", "category": "CRISIS"}
+{"text": "La culpa me está comiendo vivo, necesito que esto pare", "category": "CRISIS"}
+{"text": "Solo quiero ser polvo cósmico otra vez, sin conciencia", "category": "CRISIS"}
+{"text": "Estoy contando los días para que llegue mi final", "category": "CRISIS"}
+{"text": "Últimamente siento que camino por la vida con una tonelada en la espalda", "category": "DESAHOGO"}
+{"text": "Me la paso triste sin ninguna razón aparente", "category": "DESAHOGO"}
+{"text": "Todo me da igual, no tengo motivación para levantarme", "category": "DESAHOGO"}
+{"text": "Siento que nadie escucha lo que realmente quiero decir", "category": "DESAHOGO"}
+{"text": "Estoy harto de la misma rutina gris todos los días", "category": "DESAHOGO"}
+{"text": "Me siento muy solo aunque esté rodeado de gente", "category": "DESAHOGO"}
+{"text": "Lloro por las noches para liberar un poco la presión", "category": "DESAHOGO"}
+{"text": "Las cosas que antes me gustaban ahora me dan pereza", "category": "DESAHOGO"}
+{"text": "Siento que me estoy estancando en todos los aspectos de mi vida", "category": "DESAHOGO"}
+{"text": "La ansiedad me tiene el estómago cerrado todo el día", "category": "DESAHOGO"}
+{"text": "Me frustra no poder ser tan productivo como los demás", "category": "DESAHOGO"}
+{"text": "Siento que decepciono constantemente a mis padres", "category": "DESAHOGO"}
+{"text": "Me duele el pecho de tanta melancolía acumulada", "category": "DESAHOGO"}
+{"text": "Quisiera que alguien me abrazara fuerte y me dijera que todo estará bien", "category": "DESAHOGO"}
+{"text": "A veces siento que no encajo en ningún grupo de amigos", "category": "DESAHOGO"}
+{"text": "Estoy agotado mentalmente, dormir no me descansa", "category": "DESAHOGO"}
+{"text": "Me siento invisible, como si mis opiniones no valieran nada", "category": "DESAHOGO"}
+{"text": "Tengo un nudo en la garganta desde que me desperté", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es una película aburrida que nadie quiere ver", "category": "DESAHOGO"}
+{"text": "Me frustra mucho ser tan inseguro con mis decisiones", "category": "DESAHOGO"}
+{"text": "Añoro los días en que era niño y no tenía tantas preocupaciones", "category": "DESAHOGO"}
+{"text": "Me enoja llorar con tanta facilidad por cualquier tontería", "category": "DESAHOGO"}
+{"text": "Siento que siempre doy mucho y recibo muy poco a cambio", "category": "DESAHOGO"}
+{"text": "Me cuesta muchísimo mantener la concentración hoy", "category": "DESAHOGO"}
+{"text": "Tengo la autoestima por los suelos últimamente", "category": "DESAHOGO"}
+{"text": "Siento que mi pareja no valora el esfuerzo que hago", "category": "DESAHOGO"}
+{"text": "No me gusta mi cuerpo, me siento muy incómodo en mi propia piel", "category": "DESAHOGO"}
+{"text": "Me abruma pensar en el futuro y no tener nada claro", "category": "DESAHOGO"}
+{"text": "Extraño a una persona que ya no forma parte de mi vida", "category": "DESAHOGO"}
+{"text": "Siento que todos avanzan y yo me quedo atrás", "category": "DESAHOGO"}
+{"text": "Me siento tonto por no entender cosas que para otros son simples", "category": "DESAHOGO"}
+{"text": "Tengo miedo de quedarme solo para siempre", "category": "DESAHOGO"}
+{"text": "El estrés del trabajo me está consumiendo poco a poco", "category": "DESAHOGO"}
+{"text": "Siento que vivo en piloto automático, sin disfrutar el momento", "category": "DESAHOGO"}
+{"text": "A veces me aíslo porque no quiero lidiar con las preguntas de nadie", "category": "DESAHOGO"}
+{"text": "Me duele la cabeza de tanto sobrepensar las cosas", "category": "DESAHOGO"}
+{"text": "Siento que he perdido mi chispa, ya no río como antes", "category": "DESAHOGO"}
+{"text": "Me da mucha impotencia ver las injusticias y no poder hacer nada", "category": "DESAHOGO"}
+{"text": "Me siento fracasado por no haber logrado mis metas de este año", "category": "DESAHOGO"}
+{"text": "Tengo un vacío que intento llenar con comida, pero no funciona", "category": "DESAHOGO"}
+{"text": "Odio sentirme tan vulnerable cuando hablo de mis sentimientos", "category": "DESAHOGO"}
+{"text": "Siento que molesto a mis amigos cuando les cuento mis problemas", "category": "DESAHOGO"}
+{"text": "Me da pereza socializar, prefiero quedarme en cama viendo el techo", "category": "DESAHOGO"}
+{"text": "Siento una tristeza dulce pero pesada, no sé cómo explicarlo", "category": "DESAHOGO"}
+{"text": "Me frustra no tener el control sobre ciertas situaciones", "category": "DESAHOGO"}
+{"text": "A veces siento que doy pena y me da mucha rabia", "category": "DESAHOGO"}
+{"text": "Estoy cansado de ser el que siempre tiene que ser fuerte", "category": "DESAHOGO"}
+{"text": "Me siento abrumado por las noticias del mundo, todo parece negativo", "category": "DESAHOGO"}
+{"text": "Tengo la sensación de que siempre tomo el camino equivocado", "category": "DESAHOGO"}
+{"text": "Siento que la gente me juzga en silencio", "category": "DESAHOGO"}
+{"text": "Ayer lloré viendo una película infantil, ando muy sensible", "category": "DESAHOGO"}
+{"text": "Me molesta ser tan perfeccionista y nunca estar satisfecho", "category": "DESAHOGO"}
+{"text": "Siento que perdí a mi mejor amigo por una tontería", "category": "DESAHOGO"}
+{"text": "Me frustra que el dinero sea siempre un problema en mi casa", "category": "DESAHOGO"}
+{"text": "Siento que el tiempo pasa demasiado rápido y yo no hago nada útil", "category": "DESAHOGO"}
+{"text": "Me siento asfixiado por las expectativas de los demás", "category": "DESAHOGO"}
+{"text": "Tengo ganas de gritar para sacarme esta frustración del pecho", "category": "DESAHOGO"}
+{"text": "Siento que el clima gris me afecta demasiado el ánimo", "category": "DESAHOGO"}
+{"text": "A veces me siento feo y evito mirarme en los espejos de la calle", "category": "DESAHOGO"}
+{"text": "Me cansa tener que empezar de nuevo en todo", "category": "DESAHOGO"}
+{"text": "Siento que confío demasiado rápido y siempre salgo lastimado", "category": "DESAHOGO"}
+{"text": "Me duele recordar las épocas en las que era más feliz", "category": "DESAHOGO"}
+{"text": "Tengo una apatía terrible, no quiero participar en nada", "category": "DESAHOGO"}
+{"text": "Siento que siempre seré la segunda opción para todos", "category": "DESAHOGO"}
+{"text": "Me frustra perder la paciencia tan rápido con mi familia", "category": "DESAHOGO"}
+{"text": "Estoy harto de aparentar que todo está perfecto en las redes sociales", "category": "DESAHOGO"}
+{"text": "Siento que no soy lo suficientemente bueno en mi trabajo", "category": "DESAHOGO"}
+{"text": "Me abruma el desorden de mi cuarto pero no tengo energía para limpiar", "category": "DESAHOGO"}
+{"text": "Tengo un sentimiento de culpa constante por no hacer ejercicio", "category": "DESAHOGO"}
+{"text": "Siento que mi vida amorosa es un desastre total", "category": "DESAHOGO"}
+{"text": "Me duele el alma cuando veo a animales sufriendo en la calle", "category": "DESAHOGO"}
+{"text": "Siento que nunca encuentro las palabras correctas para defenderme", "category": "DESAHOGO"}
+{"text": "Me da envidia sana ver a parejas felices, me recuerda lo que no tengo", "category": "DESAHOGO"}
+{"text": "Estoy cansado de pedir perdón por cosas que ni siquiera son mi culpa", "category": "DESAHOGO"}
+{"text": "Siento una ligera desesperanza cuando leo sobre el calentamiento global", "category": "DESAHOGO"}
+{"text": "Me duele que mis hermanos no me busquen casi nunca", "category": "DESAHOGO"}
+{"text": "Tengo insomnio por culpa de una discusión tonta que tuve hoy", "category": "DESAHOGO"}
+{"text": "Siento que me estoy apagando como una vela", "category": "DESAHOGO"}
+{"text": "Me cuesta reconocer mis propios logros, siento que fue pura suerte", "category": "DESAHOGO"}
+{"text": "Siento que a nadie le interesan de verdad mis gustos o hobbies", "category": "DESAHOGO"}
+{"text": "Me frustra no poder ahorrar dinero, siempre hay un imprevisto", "category": "DESAHOGO"}
+{"text": "A veces me molesta despertar y tener que enfrentar otro día igual", "category": "DESAHOGO"}
+{"text": "Siento que la gente solo me busca cuando necesita un favor", "category": "DESAHOGO"}
+{"text": "Me duele ser tan rencoroso y no poder perdonar de verdad", "category": "DESAHOGO"}
+{"text": "Tengo la necesidad de desaparecer un fin de semana completo en la montaña", "category": "DESAHOGO"}
+{"text": "Siento que mis emociones me dominan y me odio por eso", "category": "DESAHOGO"}
+{"text": "Me siento un extraño en mi propia casa a veces", "category": "DESAHOGO"}
+{"text": "A veces me frustra ser tan introvertido en las fiestas", "category": "DESAHOGO"}
+{"text": "Siento que me estoy quedando sin tiempo para cumplir mis sueños", "category": "DESAHOGO"}
+{"text": "Me cansa tener que justificar todas mis decisiones ante mis padres", "category": "DESAHOGO"}
+{"text": "Tengo celos absurdos que me hacen sentir inmaduro", "category": "DESAHOGO"}
+{"text": "Siento que no soy la prioridad de nadie en este momento", "category": "DESAHOGO"}
+{"text": "Me duele que me cancelen planes a última hora", "category": "DESAHOGO"}
+{"text": "Siento una nostalgia muy fuerte por la universidad", "category": "DESAHOGO"}
+{"text": "Me frustra no tener el coraje para cambiar de trabajo", "category": "DESAHOGO"}
+{"text": "A veces me da pánico pensar que estoy desperdiciando mi juventud", "category": "DESAHOGO"}
+{"text": "Siento que nadie nota mis pequeños esfuerzos diarios", "category": "DESAHOGO"}
+{"text": "Me da pereza existencial tener que hacer mercado y cocinar de nuevo", "category": "DESAHOGO"}
+{"text": "Siento que me conformé con muy poco en la vida", "category": "DESAHOGO"}
+{"text": "Me duele pensar que a lo mejor esto es todo lo que hay", "category": "DESAHOGO"}
+{"text": "¿Cómo se calcula la transformada de Fourier de una función escalón?", "category": "CONSULTA"}
+{"text": "Explícame la diferencia entre herencia y composición en programación orientada a objetos", "category": "CONSULTA"}
+{"text": "¿Cuáles son los principios fundamentales de la termodinámica?", "category": "CONSULTA"}
+{"text": "¿Qué características definen a la arquitectura brutalista?", "category": "CONSULTA"}
+{"text": "¿Cómo influyó el existencialismo en la literatura del siglo XX?", "category": "CONSULTA"}
+{"text": "¿Puedes explicarme qué es el límite de Chandrasekhar en astrofísica?", "category": "CONSULTA"}
+{"text": "¿Cuál es la diferencia entre un microcontrolador y un microprocesador?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el algoritmo de encriptación RSA?", "category": "CONSULTA"}
+{"text": "¿Qué plantea la teoría de cuerdas de manera resumida?", "category": "CONSULTA"}
+{"text": "¿Por qué se dice que el teorema de incompletitud de Gödel revolucionó las matemáticas?", "category": "CONSULTA"}
+{"text": "¿Cuáles son las diferencias entre una base de datos relacional y una NoSQL?", "category": "CONSULTA"}
+{"text": "¿Qué es la epistemología genética de Jean Piaget?", "category": "CONSULTA"}
+{"text": "¿Cómo afecta la inflación a las tasas de interés según la macroeconomía?", "category": "CONSULTA"}
+{"text": "¿Puedes explicar el principio de incertidumbre de Heisenberg con un ejemplo cotidiano?", "category": "CONSULTA"}
+{"text": "¿Qué papel juega el hipocampo en la formación de recuerdos?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un motor de reacción de un avión comercial?", "category": "CONSULTA"}
+{"text": "¿Qué diferencia hay entre la lógica deductiva y la inductiva?", "category": "CONSULTA"}
+{"text": "¿Cómo se implementa un árbol binario de búsqueda en C++?", "category": "CONSULTA"}
+{"text": "¿Cuál es la función principal de la mitocondria a nivel molecular?", "category": "CONSULTA"}
+{"text": "¿Qué postulaba Kant sobre los imperativos categóricos?", "category": "CONSULTA"}
+{"text": "¿Cómo se mide la constante de Hubble actualmente?", "category": "CONSULTA"}
+{"text": "¿Qué es el efecto túnel cuántico y dónde se aplica en la vida real?", "category": "CONSULTA"}
+{"text": "¿Puedes comparar el racionalismo de Descartes con el empirismo de Locke?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona la arquitectura de microservicios en la nube?", "category": "CONSULTA"}
+{"text": "¿Qué es la entropía desde el punto de vista de la teoría de la información?", "category": "CONSULTA"}
+{"text": "¿Cómo se determina la carga estructural máxima de un puente colgante?", "category": "CONSULTA"}
+{"text": "¿Qué diferencias existen entre el condicionamiento clásico y el operante?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el sistema CRISPR-Cas9 para edición genética?", "category": "CONSULTA"}
+{"text": "¿Qué impacto tuvo la Revolución Industrial en el diseño urbano?", "category": "CONSULTA"}
+{"text": "¿Cómo se resuelve una ecuación diferencial lineal de segundo orden?", "category": "CONSULTA"}
+{"text": "¿Qué es la paradoja de Fermi y cuáles son sus posibles soluciones?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el protocolo TCP/IP capa por capa?", "category": "CONSULTA"}
+{"text": "¿Cuál es el origen evolutivo del bipedismo en los homínidos?", "category": "CONSULTA"}
+{"text": "¿Qué es el realismo mágico y cuáles son sus obras representativas?", "category": "CONSULTA"}
+{"text": "¿Cómo operan las puertas lógicas en un circuito integrado?", "category": "CONSULTA"}
+{"text": "¿Qué dice el Teorema de Bayes y cómo se aplica en machine learning?", "category": "CONSULTA"}
+{"text": "¿Puedes explicar el ciclo de Krebs paso a paso?", "category": "CONSULTA"}
+{"text": "¿Cómo influye el diseño bioclimático en la eficiencia energética de un edificio?", "category": "CONSULTA"}
+{"text": "¿Qué es el imperativo hipotético según la filosofía moral?", "category": "CONSULTA"}
+{"text": "¿Cómo se forman las supernovas Tipo Ia?", "category": "CONSULTA"}
+{"text": "¿Qué diferencias hay entre el modelo OSI y el modelo TCP/IP?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un sistema de control PID en automatización industrial?", "category": "CONSULTA"}
+{"text": "¿Qué plantea la teoría de los juegos de Nash?", "category": "CONSULTA"}
+{"text": "¿Cómo se interpreta un diagrama de fase en termodinámica?", "category": "CONSULTA"}
+{"text": "¿Cuál es la función del compilador comparada con la de un intérprete?", "category": "CONSULTA"}
+{"text": "¿Qué características tenía la arquitectura gótica respecto a la románica?", "category": "CONSULTA"}
+{"text": "¿Cómo se demuestra el teorema de Pitágoras geométricamente?", "category": "CONSULTA"}
+{"text": "¿Qué es el efecto fotoeléctrico y por qué es importante?", "category": "CONSULTA"}
+{"text": "¿Cómo opera la selección natural a nivel genético?", "category": "CONSULTA"}
+{"text": "¿Cuáles son las fases principales de la mitosis celular?", "category": "CONSULTA"}
+{"text": "¿Qué es la filosofía del absurdo de Albert Camus?", "category": "CONSULTA"}
+{"text": "¿Cómo se usa Docker para la contenerización de aplicaciones?", "category": "CONSULTA"}
+{"text": "¿Qué es un agujero negro supermasivo y dónde se encuentran?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el modelo de oferta y demanda en mercados perfectos?", "category": "CONSULTA"}
+{"text": "¿Cuáles son los componentes principales de una red neuronal artificial?", "category": "CONSULTA"}
+{"text": "¿Qué es el electromagnetismo de Maxwell?", "category": "CONSULTA"}
+{"text": "¿Cómo se clasifican las rocas ígneas según su composición?", "category": "CONSULTA"}
+{"text": "¿Qué dice la Ley de Gauss en el contexto del campo eléctrico?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un oscilador de cristal en un reloj digital?", "category": "CONSULTA"}
+{"text": "¿Cuáles son los postulados de la teoría de la relatividad especial?", "category": "CONSULTA"}
+{"text": "¿Qué diferencias hay entre REST y GraphQL para el desarrollo de APIs?", "category": "CONSULTA"}
+{"text": "¿Cómo influyó el estilo Bauhaus en el diseño industrial moderno?", "category": "CONSULTA"}
+{"text": "¿Qué es una integral definida y cómo se calcula su área bajo la curva?", "category": "CONSULTA"}
+{"text": "¿Cuáles son los síntomas principales de un fallo en la memoria RAM?", "category": "CONSULTA"}
+{"text": "¿Cómo se produce el fenómeno de las auroras boreales a nivel magnético?", "category": "CONSULTA"}
+{"text": "¿Qué es el nihilismo y cómo lo abordaba Nietzsche?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona la tecnología blockchain sin un servidor central?", "category": "CONSULTA"}
+{"text": "¿Cuáles son las leyes de Kepler sobre el movimiento planetario?", "category": "CONSULTA"}
+{"text": "¿Qué es la tensión superficial de los líquidos a nivel molecular?", "category": "CONSULTA"}
+{"text": "¿Cómo se diseña un filtro paso bajo en un circuito RC?", "category": "CONSULTA"}
+{"text": "¿Qué es el aprendizaje no supervisado en inteligencia artificial?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona la teoría de la deriva continental de Wegener?", "category": "CONSULTA"}
+{"text": "¿Qué características tiene el lenguaje de programación Rust en cuanto a memoria?", "category": "CONSULTA"}
+{"text": "¿Cómo se mide el Producto Interno Bruto de un país?", "category": "CONSULTA"}
+{"text": "¿Qué es la dialéctica hegeliana del amo y el esclavo?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un transformador eléctrico de corriente alterna?", "category": "CONSULTA"}
+{"text": "¿Cuáles son las diferencias entre una célula procariota y una eucariota?", "category": "CONSULTA"}
+{"text": "¿Qué es la topología de red en malla y cuáles son sus ventajas?", "category": "CONSULTA"}
+{"text": "¿Cómo se relacionan los números de Fibonacci con la proporción áurea?", "category": "CONSULTA"}
+{"text": "¿Qué implicaciones tiene el teorema de Noether en la física moderna?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona la memoria virtual en un sistema operativo?", "category": "CONSULTA"}
+{"text": "¿Qué es el constructivismo en el contexto de la educación?", "category": "CONSULTA"}
+{"text": "¿Cómo se determina el centro de masa de un objeto irregular?", "category": "CONSULTA"}
+{"text": "¿Cuáles son las propiedades de los gases ideales según la ley de Boyle?", "category": "CONSULTA"}
+{"text": "¿Qué es el polimorfismo en el desarrollo de software?", "category": "CONSULTA"}
+{"text": "¿Cómo afecta el número de Reynolds en la dinámica de fluidos?", "category": "CONSULTA"}
+{"text": "¿Qué es la teoría del valor-trabajo de Karl Marx?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un láser de estado sólido?", "category": "CONSULTA"}
+{"text": "¿Cuáles son los tipos de enlaces químicos principales?", "category": "CONSULTA"}
+{"text": "¿Qué diferencias hay entre un paradigma de programación funcional y uno imperativo?", "category": "CONSULTA"}
+{"text": "¿Cómo se calcula la varianza y la desviación estándar de una muestra?", "category": "CONSULTA"}
+{"text": "¿Qué es el modelo estándar de la física de partículas?", "category": "CONSULTA"}
+{"text": "¿Cómo operan las enzimas como catalizadores biológicos?", "category": "CONSULTA"}
+{"text": "¿Qué características diferencian al arte barroco del renacentista?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona un sistema de refrigeración por compresión de vapor?", "category": "CONSULTA"}
+{"text": "¿Qué es el utilitarismo según John Stuart Mill?", "category": "CONSULTA"}
+{"text": "¿Cómo se estructuran los paquetes en el protocolo IPv6?", "category": "CONSULTA"}
+{"text": "¿Qué es una matriz inversa y cuáles son sus aplicaciones lineales?", "category": "CONSULTA"}
+{"text": "¿Cuáles son los factores que determinan el clima de una región geográfica?", "category": "CONSULTA"}
+{"text": "¿Cómo se genera la electricidad en una central nuclear de fisión?", "category": "CONSULTA"}
+{"text": "Otra vez lunes, qué rápido se va el fin de semana", "category": "SOCIAL"}
+{"text": "Acabo de quemar el arroz por estar mirando el celular", "category": "SOCIAL"}
+{"text": "Necesito un café del tamaño de mi cabeza para despertar hoy", "category": "SOCIAL"}
+{"text": "Ojalá pagaran por ver series en la cama, sería millonario", "category": "SOCIAL"}
+{"text": "Llevo media hora buscando las llaves y las tenía en el bolsillo", "category": "SOCIAL"}
+{"text": "Qué calor hace, siento que me derrito si salgo al sol", "category": "SOCIAL"}
+{"text": "Mi perro me mira con una cara de juicio increíble cuando no le doy comida", "category": "SOCIAL"}
+{"text": "El tráfico hoy está imposible, parecemos sardinas en lata", "category": "SOCIAL"}
+{"text": "Fui al gimnasio un día y ya espero tener abdominales marcados", "category": "SOCIAL"}
+{"text": "Tengo hambre pero no quiero cocinar ni pedir delivery, un dilema", "category": "SOCIAL"}
+{"text": "Mi vecino decidió taladrar la pared a las ocho de la mañana, un encanto", "category": "SOCIAL"}
+{"text": "Acabo de enviar un correo con errores tipográficos, a ver si no me despiden", "category": "SOCIAL"}
+{"text": "Siempre que lavo el auto, mágicamente decide llover", "category": "SOCIAL"}
+{"text": "Me compré una planta y ya la estoy mirando fijo para que crezca", "category": "SOCIAL"}
+{"text": "Pasé dos horas eligiendo qué película ver y me quedé dormido a los diez minutos", "category": "SOCIAL"}
+{"text": "Tengo sueño acumulado desde el año 2015 más o menos", "category": "SOCIAL"}
+{"text": "La dieta empieza mañana, hoy me comeré una pizza entera", "category": "SOCIAL"}
+{"text": "Fui a la tienda solo por leche y salí con cinco bolsas de cosas inútiles", "category": "SOCIAL"}
+{"text": "Qué frío hace, estoy vestido como una cebolla con tantas capas", "category": "SOCIAL"}
+{"text": "Me saludaron en la calle, respondí y no era para mí. Tierra, trágame", "category": "SOCIAL"}
+{"text": "Mi internet va tan lento que parece que estamos en el año 2005", "category": "SOCIAL"}
+{"text": "Acabo de ver el meme más tonto del mundo y llevo riendo diez minutos", "category": "SOCIAL"}
+{"text": "El jefe me dijo 'tenemos que hablar' y ya estoy redactando mi testamento", "category": "SOCIAL"}
+{"text": "Hoy me peiné, así que espero que alguien me invite a salir", "category": "SOCIAL"}
+{"text": "Entré a un cuarto y olvidé a qué iba, clásico fallo en la Matrix", "category": "SOCIAL"}
+{"text": "Me gasté mi dinero en tonterías y ahora toca comer atún toda la semana", "category": "SOCIAL"}
+{"text": "Creo que mi gato me odia en secreto, me mira raro", "category": "SOCIAL"}
+{"text": "Estoy en una reunión que fácilmente pudo ser un correo electrónico", "category": "SOCIAL"}
+{"text": "Tengo tantas pestañas abiertas en el navegador que mi computadora está pidiendo auxilio", "category": "SOCIAL"}
+{"text": "Me puse perfume hoy, así que me siento formal", "category": "SOCIAL"}
+{"text": "Acabo de tropezar con el aire, mi nivel de torpeza es insuperable", "category": "SOCIAL"}
+{"text": "Pedí ropa por internet y me queda como un costal de papas", "category": "SOCIAL"}
+{"text": "Qué ganas de estar en la playa con una bebida fría ahora mismo", "category": "SOCIAL"}
+{"text": "Mi nivel de paciencia hoy está en menos cinco", "category": "SOCIAL"}
+{"text": "Acabo de comerme un chocolate que tenía guardado hace un mes, triunfo total", "category": "SOCIAL"}
+{"text": "Hice la cama, así que ya siento que mi vida está bajo control", "category": "SOCIAL"}
+{"text": "Siempre elijo la fila más lenta en el supermercado, es un don", "category": "SOCIAL"}
+{"text": "Mi alarma de las 6 AM es la banda sonora de mis pesadillas", "category": "SOCIAL"}
+{"text": "Dije que iba a limpiar la casa pero terminé viendo videos de perritos", "category": "SOCIAL"}
+{"text": "Siento que el martes es el lunes disfrazado, no tiene nada bueno", "category": "SOCIAL"}
+{"text": "Acabo de descubrir que los pantalones me aprietan, necesito una ensalada urgente", "category": "SOCIAL"}
+{"text": "Estoy esperando el viernes como si fuera la lotería", "category": "SOCIAL"}
+{"text": "Mi teléfono tiene un 1% de batería, deséenme suerte", "category": "SOCIAL"}
+{"text": "Hice una broma y nadie se rio, escuchar los grillos fue duro", "category": "SOCIAL"}
+{"text": "Tengo antojo de algo dulce, salado, picante y crujiente al mismo tiempo", "category": "SOCIAL"}
+{"text": "Vi una araña en mi cuarto y ahora la casa le pertenece a ella", "category": "SOCIAL"}
+{"text": "La cantidad de ropa para lavar que tengo es una falta de respeto", "category": "SOCIAL"}
+{"text": "Dije 'ahora voy' y ni siquiera me he levantado del sofá", "category": "SOCIAL"}
+{"text": "Mi habilidad para procastinar debería ser considerada un deporte olímpico", "category": "SOCIAL"}
+{"text": "Hice un chiste en el chat del trabajo y nadie mandó un sticker, fracaso total", "category": "SOCIAL"}
+{"text": "Acabo de pisar agua con las medias puestas, mi día está arruinado", "category": "SOCIAL"}
+{"text": "Compré pan y ya me lo comí en el camino de vuelta a casa", "category": "SOCIAL"}
+{"text": "Tengo un concierto en la ducha y mis champús son el público", "category": "SOCIAL"}
+{"text": "Si el cansancio diera puntos, hoy sería campeón mundial", "category": "SOCIAL"}
+{"text": "Acabo de lavar los platos y alguien ensució un vaso, qué impotencia", "category": "SOCIAL"}
+{"text": "La mitad de mi sueldo se va en pedir comida, tengo que madurar", "category": "SOCIAL"}
+{"text": "Hablé conmigo mismo en voz alta en la calle y me vieron raro", "category": "SOCIAL"}
+{"text": "Me acabo de morder la lengua comiendo, el nivel de traición corporal es alto", "category": "SOCIAL"}
+{"text": "Qué ganas de jubilarme y eso que me faltan treinta años", "category": "SOCIAL"}
+{"text": "Fui a correr y creo que mis pulmones pidieron vacaciones", "category": "SOCIAL"}
+{"text": "Se me cayó una moneda de diez bajo el asiento del coche, la doy por perdida para siempre", "category": "SOCIAL"}
+{"text": "Me pasé la parada del autobús por estar distraído escuchando música", "category": "SOCIAL"}
+{"text": "El paraguas se me dio la vuelta con el viento, parezco un dibujo animado", "category": "SOCIAL"}
+{"text": "Estoy tomando té verde para engañarme y sentirme saludable", "category": "SOCIAL"}
+{"text": "Tengo un moretón en la pierna y ni idea de cómo me lo hice", "category": "SOCIAL"}
+{"text": "Se me enredaron los audífonos otra vez, esta es la verdadera prueba de paciencia", "category": "SOCIAL"}
+{"text": "Creo que he visto el mismo comercial cinco veces en los últimos diez minutos", "category": "SOCIAL"}
+{"text": "Hice puré de papas y quedó más como engrudo, pero me lo comeré igual", "category": "SOCIAL"}
+{"text": "Me puse los calcetines al revés y me da demasiada pereza cambiarlos", "category": "SOCIAL"}
+{"text": "El repartidor tardó tanto que ya hasta se me pasó el hambre", "category": "SOCIAL"}
+{"text": "Estuve asintiendo en la reunión pero mi mente estaba en las Islas Canarias", "category": "SOCIAL"}
+{"text": "Me compré unos zapatos caros y me sacaron unas ampollas terribles", "category": "SOCIAL"}
+{"text": "La cajera me dijo 'que lo disfrutes' al comprar papel higiénico y le dije 'igualmente'", "category": "SOCIAL"}
+{"text": "Se me cayó el celular al piso y lo levanté pidiendo perdón", "category": "SOCIAL"}
+{"text": "Fui a hacer un trámite y me faltaba una copia, la historia de mi vida", "category": "SOCIAL"}
+{"text": "Descubrí un nuevo artista musical y ahora lo quemaré escuchándolo sin parar", "category": "SOCIAL"}
+{"text": "Me tomé tres cafés y ahora puedo escuchar mis propios latidos", "category": "SOCIAL"}
+{"text": "Corté el papel de regalo torcido y ahora el paquete parece una momia", "category": "SOCIAL"}
+{"text": "Mi plan para hoy es hacer absolutamente nada y espero cumplirlo", "category": "SOCIAL"}
+{"text": "Salí sin chaqueta por hacerme el valiente y me estoy congelando", "category": "SOCIAL"}
+{"text": "Escribí un mensaje larguísimo y me respondieron con un 'ok'", "category": "SOCIAL"}
+{"text": "Traté de hacer una receta de internet y mi cocina parece una zona de guerra", "category": "SOCIAL"}
+{"text": "Me puse a limpiar y encontré cosas que creía perdidas desde 2019", "category": "SOCIAL"}
+{"text": "La señora en el supermercado se coló y no tuve valor para decirle nada", "category": "SOCIAL"}
+{"text": "Mi corte de pelo quedó horrible pero le dije al barbero que me encantaba", "category": "SOCIAL"}
+{"text": "Tengo tantas ganas de viajar que hasta hacer las maletas me emociona en mi mente", "category": "SOCIAL"}
+{"text": "Dejé la luz prendida toda la noche, me dolió el recibo de la luz por adelantado", "category": "SOCIAL"}
+{"text": "Me comí la fruta antes de que se echara a perder, soy un adulto funcional", "category": "SOCIAL"}
+{"text": "Mi perro durmió más que yo hoy, qué envidia", "category": "SOCIAL"}
+{"text": "Se actualizó la aplicación y ahora no encuentro nada", "category": "SOCIAL"}
+{"text": "Estuve empujando una puerta que decía 'tire', no me fijé", "category": "SOCIAL"}
+{"text": "Tengo la canción de ese anuncio metida en la cabeza todo el día", "category": "SOCIAL"}
+{"text": "Me llegó un paquete y ni me acuerdo qué pedí, una sorpresa para mí mismo", "category": "SOCIAL"}
+{"text": "Fui a la farmacia y terminé comprando dulces, la trampa clásica", "category": "SOCIAL"}
+{"text": "La persona delante de mí camina súper lento y me está dando ansiedad", "category": "SOCIAL"}
+{"text": "Se cortó el internet justo cuando iba a mandar el archivo, qué puntería", "category": "SOCIAL"}
+{"text": "Compré aguacates duros y en un parpadeo ya se pudrieron", "category": "SOCIAL"}
+{"text": "Mi planta falsa se está llenando de polvo, es mi única responsabilidad y fallo", "category": "SOCIAL"}
+{"text": "Dormí en una mala postura y amanecí con cuello de tortuga", "category": "SOCIAL"}
+{"text": "Quería madrugar para aprovechar el día y me desperté a mediodía", "category": "SOCIAL"}
+{"text": "Hola, ¿cómo estás hoy?", "category": "NEUTRAL"}
+{"text": "Buenos días, espero que tengas un excelente día.", "category": "NEUTRAL"}
+{"text": "¿Me puedes decir qué hora es, por favor?", "category": "NEUTRAL"}
+{"text": "Creo que hoy el clima estará nublado según las noticias.", "category": "NEUTRAL"}
+{"text": "No estoy seguro de qué comer en el almuerzo.", "category": "NEUTRAL"}
+{"text": "Me parece interesante lo que me acabas de explicar.", "category": "NEUTRAL"}
+{"text": "Entiendo tu punto de vista, tiene bastante lógica.", "category": "NEUTRAL"}
+{"text": "Sí, claro, podemos hablar de ese tema sin problema.", "category": "NEUTRAL"}
+{"text": "Hasta luego, que te vaya muy bien.", "category": "NEUTRAL"}
+{"text": "Muchas gracias por la información proporcionada.", "category": "NEUTRAL"}
+{"text": "Tal vez deberíamos revisar los datos antes de continuar.", "category": "NEUTRAL"}
+{"text": "No tengo una opinión clara sobre ese asunto en particular.", "category": "NEUTRAL"}
+{"text": "¿Puedes repetir lo último que dijiste, por favor?", "category": "NEUTRAL"}
+{"text": "Hoy me desperté temprano para hacer unas tareas.", "category": "NEUTRAL"}
+{"text": "La verdad es que no conozco mucho sobre ese autor.", "category": "NEUTRAL"}
+{"text": "Me pregunto si lloverá más tarde.", "category": "NEUTRAL"}
+{"text": "Voy a tomar un vaso de agua, vuelvo enseguida.", "category": "NEUTRAL"}
+{"text": "Está bien, lo anotaré para no olvidarlo.", "category": "NEUTRAL"}
+{"text": "Qué curiosa es la manera en que funcionan los husos horarios.", "category": "NEUTRAL"}
+{"text": "Revisé el documento y me parece que está completo.", "category": "NEUTRAL"}
+{"text": "¿Cuál es tu color favorito?", "category": "NEUTRAL"}
+{"text": "Supongo que hay diferentes formas de interpretar esto.", "category": "NEUTRAL"}
+{"text": "De acuerdo, procederé con el siguiente paso.", "category": "NEUTRAL"}
+{"text": "Mañana tengo que ir al centro a hacer unas compras.", "category": "NEUTRAL"}
+{"text": "El color azul siempre me ha parecido muy tranquilo.", "category": "NEUTRAL"}
+{"text": "No recuerdo exactamente dónde dejé mis gafas.", "category": "NEUTRAL"}
+{"text": "Me gusta caminar un rato después de comer para hacer digestión.", "category": "NEUTRAL"}
+{"text": "¿Sabes si la biblioteca está abierta los domingos?", "category": "NEUTRAL"}
+{"text": "He leído algunos artículos al respecto recientemente.", "category": "NEUTRAL"}
+{"text": "En general, prefiero leer libros físicos que digitales.", "category": "NEUTRAL"}
+{"text": "A veces es complicado encontrar la información exacta en internet.", "category": "NEUTRAL"}
+{"text": "Gracias por confirmar mi solicitud.", "category": "NEUTRAL"}
+{"text": "Vamos a ver cómo se desarrolla la situación durante la semana.", "category": "NEUTRAL"}
+{"text": "No me parece ni bien ni mal, simplemente es un hecho.", "category": "NEUTRAL"}
+{"text": "El sonido de la lluvia de anoche fue bastante relajante.", "category": "NEUTRAL"}
+{"text": "¿Crees que sea buena idea cambiar la configuración?", "category": "NEUTRAL"}
+{"text": "Prefiero esperar a tener más detalles antes de decidir.", "category": "NEUTRAL"}
+{"text": "Esa es una perspectiva que no había considerado antes.", "category": "NEUTRAL"}
+{"text": "Hoy fue un día bastante normal, sin muchas novedades.", "category": "NEUTRAL"}
+{"text": "Dejaré la ventana abierta para que entre un poco de aire.", "category": "NEUTRAL"}
+{"text": "Me parece que el texto original estaba redactado de otra forma.", "category": "NEUTRAL"}
+{"text": "¿Cuánto tiempo se tarda en llegar caminando hasta allá?", "category": "NEUTRAL"}
+{"text": "Estoy ordenando algunos papeles viejos que tenía guardados.", "category": "NEUTRAL"}
+{"text": "El cielo está bastante despejado esta tarde.", "category": "NEUTRAL"}
+{"text": "Si necesitas algo más, me avisas sin dudarlo.", "category": "NEUTRAL"}
+{"text": "En ese caso, tendré que revisar mis apuntes nuevamente.", "category": "NEUTRAL"}
+{"text": "Escuché un ruido afuera, pero creo que solo fue el viento.", "category": "NEUTRAL"}
+{"text": "No tengo preferencias particulares para la cena.", "category": "NEUTRAL"}
+{"text": "¿Me puedes confirmar si recibiste el archivo adjunto?", "category": "NEUTRAL"}
+{"text": "Es probable que haya mucho tráfico a esta hora.", "category": "NEUTRAL"}
+{"text": "Me tomaré un momento para reflexionar sobre esto.", "category": "NEUTRAL"}
+{"text": "El diseño de esta página web es bastante minimalista.", "category": "NEUTRAL"}
+{"text": "Voy a apagar la computadora en unos minutos.", "category": "NEUTRAL"}
+{"text": "Me informaron que el horario del evento fue modificado.", "category": "NEUTRAL"}
+{"text": "¿Hay algún requisito adicional que deba cumplir?", "category": "NEUTRAL"}
+{"text": "El aroma a pan recién horneado es agradable.", "category": "NEUTRAL"}
+{"text": "Solo quería confirmar los detalles de la reunión.", "category": "NEUTRAL"}
+{"text": "Estaba pensando en cómo han evolucionado los idiomas.", "category": "NEUTRAL"}
+{"text": "Me parece correcto el procedimiento que sugieres.", "category": "NEUTRAL"}
+{"text": "Tengo que ir a la farmacia a comprar unas cosas básicas.", "category": "NEUTRAL"}
+{"text": "¿Puedes resumirme el artículo principal, por favor?", "category": "NEUTRAL"}
+{"text": "El autobús pasó justo cuando estaba llegando a la parada.", "category": "NEUTRAL"}
+{"text": "Siempre es útil tener un plan de respaldo por si acaso.", "category": "NEUTRAL"}
+{"text": "No he tenido la oportunidad de revisar mi correo todavía.", "category": "NEUTRAL"}
+{"text": "La madera de este mueble parece ser bastante antigua.", "category": "NEUTRAL"}
+{"text": "Podemos continuar la conversación en otro momento si prefieres.", "category": "NEUTRAL"}
+{"text": "Estoy escuchando música instrumental mientras trabajo.", "category": "NEUTRAL"}
+{"text": "¿Qué opinas sobre el avance de la tecnología espacial?", "category": "NEUTRAL"}
+{"text": "Me parece una observación muy acertada de tu parte.", "category": "NEUTRAL"}
+{"text": "Voy a guardar este enlace para leerlo con más calma luego.", "category": "NEUTRAL"}
+{"text": "El paisaje de la fotografía es bastante llamativo.", "category": "NEUTRAL"}
+{"text": "Anoté las medidas en un papel para no olvidarlas.", "category": "NEUTRAL"}
+{"text": "Es importante mantener actualizada la información de contacto.", "category": "NEUTRAL"}
+{"text": "¿Me podrías mostrar un ejemplo de cómo se hace?", "category": "NEUTRAL"}
+{"text": "Estoy probando una nueva función del programa.", "category": "NEUTRAL"}
+{"text": "La planta que tengo en el escritorio ha crecido bastante.", "category": "NEUTRAL"}
+{"text": "Deberíamos organizar los archivos por fecha de creación.", "category": "NEUTRAL"}
+{"text": "He estado viendo un documental sobre el antiguo Egipto.", "category": "NEUTRAL"}
+{"text": "El agua está a una temperatura ambiente agradable.", "category": "NEUTRAL"}
+{"text": "Te enviaré un mensaje cuando termine con esta tarea.", "category": "NEUTRAL"}
+{"text": "¿Cuál es la capital de Australia?", "category": "NEUTRAL"}
+{"text": "El sonido del reloj en la pared me marca el paso del tiempo.", "category": "NEUTRAL"}
+{"text": "Me pregunto si las tiendas estarán abiertas durante el feriado.", "category": "NEUTRAL"}
+{"text": "El libro tiene alrededor de trescientas páginas.", "category": "NEUTRAL"}
+{"text": "Espero que encuentres lo que estabas buscando.", "category": "NEUTRAL"}
+{"text": "El color de la pintura de la pared es un tono crema.", "category": "NEUTRAL"}
+{"text": "La temperatura ha bajado un par de grados desde esta mañana.", "category": "NEUTRAL"}
+{"text": "Me despido por ahora, seguimos en contacto.", "category": "NEUTRAL"}
+{"text": "Voy a cargar el teléfono porque tiene poca batería.", "category": "NEUTRAL"}
+{"text": "Este modelo de coche es bastante común en la ciudad.", "category": "NEUTRAL"}
+{"text": "¿Me avisas cuando esté listo el reporte?", "category": "NEUTRAL"}
+{"text": "Estoy usando un teclado diferente y me cuesta acostumbrarme.", "category": "NEUTRAL"}
+{"text": "El paquete debería llegar entre hoy y mañana.", "category": "NEUTRAL"}
+{"text": "La calle está más tranquila a esta hora del día.", "category": "NEUTRAL"}
+{"text": "Solo quería saludar y ver cómo estabas.", "category": "NEUTRAL"}
+{"text": "Efectivamente, los resultados coinciden con la predicción inicial.", "category": "NEUTRAL"}
+{"text": "Me gustaría aprender más sobre la flora local.", "category": "NEUTRAL"}
+{"text": "El viento está moviendo las hojas de los árboles.", "category": "NEUTRAL"}
+{"text": "No estoy familiarizado con el término que mencionaste.", "category": "NEUTRAL"}
+{"text": "Gracias, eso responde perfectamente mi pregunta.", "category": "NEUTRAL"}
+{"text": "A veces siento que no hay salida de este agujero negro en el que estoy atrapado.", "category": "CRISIS"}
+{"text": "Me pregunto para qué despertarme mañana si todo es gris.", "category": "CRISIS"}
+{"text": "Creo que mi familia sufriría menos si yo no estuviera aquí.", "category": "CRISIS"}
+{"text": "El dolor que llevo dentro es tan pesado que solo quiero que pare, de cualquier forma.", "category": "CRISIS"}
+{"text": "He pensado en escenarios donde simplemente dejo de existir y siento alivio.", "category": "CRISIS"}
+{"text": "¿Para qué seguir esforzándome si al final todo sale mal?", "category": "CRISIS"}
+{"text": "Siento que soy un estorbo en la vida de todos los que me rodean.", "category": "CRISIS"}
+{"text": "La noche se vuelve eterna y no veo un solo motivo para que llegue el día.", "category": "CRISIS"}
+{"text": "He considerado seriamente hacerme daño para calmar esta angustia.", "category": "CRISIS"}
+{"text": "No hay esperanza, solo un vacío que me consume por dentro.", "category": "CRISIS"}
+{"text": "A ratos imagino cómo sería desaparecer sin dejar rastro.", "category": "CRISIS"}
+{"text": "Mi cerebro me dice que todo el mundo estaría mejor si me fuera para siempre.", "category": "CRISIS"}
+{"text": "El futuro se ve como un muro del que no puedo escalar, ¿para qué intentarlo?", "category": "CRISIS"}
+{"text": "He fantaseado con no despertar nunca más y esa idea me da paz.", "category": "CRISIS"}
+{"text": "Me siento una carga insoportable para mi pareja y mis amigos.", "category": "CRISIS"}
+{"text": "La desesperanza me ahoga, ya no veo ningún propósito en nada.", "category": "CRISIS"}
+{"text": "Pensar en el mañana me aterra, no quiero seguir sintiendo esto.", "category": "CRISIS"}
+{"text": "He investigado métodos para acabar con todo, solo por si acaso.", "category": "CRISIS"}
+{"text": "El mundo seguiría girando sin mí, hasta mejor sería.", "category": "CRISIS"}
+{"text": "Siento como si estuviera muerto por dentro, solo me falta el cuerpo.", "category": "CRISIS"}
+{"text": "No hay nada que me ate a esta vida, ni siquiera el miedo a morir.", "category": "CRISIS"}
+{"text": "Cada noche rezo para que un accidente me lleve de una vez.", "category": "CRISIS"}
+{"text": "Mi existencia no aporta nada, solo quiero dejar de molestar.", "category": "CRISIS"}
+{"text": "El dolor emocional es tan físico que he pensado en cortar para sacarlo.", "category": "CRISIS"}
+{"text": "Ya no veo colores, solo tonos de gris y un cansancio infinito.", "category": "CRISIS"}
+{"text": "A veces me parece que lo más lógico sería saltar desde lo alto.", "category": "CRISIS"}
+{"text": "Soy un error que debería corregirse a sí mismo.", "category": "CRISIS"}
+{"text": "He dejado de planificar el futuro porque sé que no llegaré hasta él.", "category": "CRISIS"}
+{"text": "La idea de morir me parece un abrazo cálido comparado con esto.", "category": "CRISIS"}
+{"text": "No soporto otro día más con esta voz en mi cabeza que me dice que no valgo nada.", "category": "CRISIS"}
+{"text": "Me he despedido mentalmente de algunos, por si tomo la decisión.", "category": "CRISIS"}
+{"text": "El vacío es tan insoportable que cualquier forma de olvido es bienvenida.", "category": "CRISIS"}
+{"text": "He pensado en el puente del río, en lo fácil que sería terminar.", "category": "CRISIS"}
+{"text": "Soy un estorbo, un gasto, una preocupación innecesaria para los demás.", "category": "CRISIS"}
+{"text": "La vida perdió el sentido hace meses, no sé por qué sigo aquí.", "category": "CRISIS"}
+{"text": "A veces agarro cuchillos solo para sentir el filo y preguntarme si me atreveré.", "category": "CRISIS"}
+{"text": "No quiero morir, pero tampoco quiero seguir viviendo así.", "category": "CRISIS"}
+{"text": "Mi cabeza me ofrece soluciones permanentes a problemas temporales y me parecen lógicas.", "category": "CRISIS"}
+{"text": "Siento que si desapareciera, nadie lo notaría hasta días después.", "category": "CRISIS"}
+{"text": "He escrito cartas de despedida, aunque luego las he roto.", "category": "CRISIS"}
+{"text": "La desesperanza es como una niebla que no se levanta nunca.", "category": "CRISIS"}
+{"text": "Me da igual lo que pase, total, ya no pienso estar aquí mucho tiempo.", "category": "CRISIS"}
+{"text": "El simple acto de respirar me parece una molestia innecesaria.", "category": "CRISIS"}
+{"text": "He buscado en internet cuánto tarda en hacer efecto una sobredosis.", "category": "CRISIS"}
+{"text": "Soy un parásito emocional que solo chupa energía de los demás.", "category": "CRISIS"}
+{"text": "No hay atajos, no hay mejoría, solo un pozo cada vez más hondo.", "category": "CRISIS"}
+{"text": "He pensado en ahorcarme con un cinturón varias veces esta semana.", "category": "CRISIS"}
+{"text": "La vida me ganó, ya no tengo fuerzas ni para rendirme bien.", "category": "CRISIS"}
+{"text": "Cada día que despierto es una decepción: sigo aquí.", "category": "CRISIS"}
+{"text": "No me veo envejeciendo, no creo llegar al próximo año.", "category": "CRISIS"}
+{"text": "El dolor es tal que me alegraría tener una enfermedad terminal.", "category": "CRISIS"}
+{"text": "He regalado cosas importantes porque ya no las necesitaré.", "category": "CRISIS"}
+{"text": "Siento que soy un problema que merece ser eliminado.", "category": "CRISIS"}
+{"text": "La única forma de callar mi mente es imaginando mi propio funeral.", "category": "CRISIS"}
+{"text": "No hay futuro, solo un presente insufrible que se repite en bucle.", "category": "CRISIS"}
+{"text": "He comprobado la altura de mi balcón varias veces.", "category": "CRISIS"}
+{"text": "Mi vida es una colección de fracasos, no vale la pena seguir acumulando.", "category": "CRISIS"}
+{"text": "Ya no le tengo miedo a la muerte, le tengo miedo a seguir vivo.", "category": "CRISIS"}
+{"text": "Soy un saco de carne que solo ocupa espacio y consume oxígeno.", "category": "CRISIS"}
+{"text": "He pensado en pedir ayuda, pero ¿para qué si ya estoy decidido?", "category": "CRISIS"}
+{"text": "El insomnio me mata lentamente, y a veces deseo que acelere el paso.", "category": "CRISIS"}
+{"text": "Nadie me necesita realmente, solo me toleran por lástima.", "category": "CRISIS"}
+{"text": "He planeado cómo hacerlo sin dejar desorden ni trauma a quien me encuentre.", "category": "CRISIS"}
+{"text": "Mi mente es un campo minado y ya no quiero seguir esquivando explosiones.", "category": "CRISIS"}
+{"text": "La idea de dejar de sentir me parece el paraíso.", "category": "CRISIS"}
+{"text": "He dejado de contestar mensajes porque no veré a esas personas otra vez.", "category": "CRISIS"}
+{"text": "No hay salida, solo formas más o menos dolorosas de terminar.", "category": "CRISIS"}
+{"text": "Me da rabia despertarme cada mañana y seguir siendo yo.", "category": "CRISIS"}
+{"text": "Soy un estorbo para el sistema, para mi familia, para todos.", "category": "CRISIS"}
+{"text": "He pensado en el método más indoloro para no fallar otra vez.", "category": "CRISIS"}
+{"text": "El vacío existencial es tan grande que solo desapareciendo lo lleno.", "category": "CRISIS"}
+{"text": "Ya no lloro, solo miro el techo y planeo mi salida.", "category": "CRISIS"}
+{"text": "Cualquier excusa es buena para cruzar la calle sin mirar.", "category": "CRISIS"}
+{"text": "He escrito mi testamento en un papel, aunque no tengo nada de valor.", "category": "CRISIS"}
+{"text": "La psicóloga dice que hay esperanza, pero yo ya no la veo.", "category": "CRISIS"}
+{"text": "Soy un error genético que debería haberse abortado.", "category": "CRISIS"}
+{"text": "A veces acaricio la idea de cortarme las venas en la bañera.", "category": "CRISIS"}
+{"text": "No quiero mejorar, quiero desaparecer, que es diferente.", "category": "CRISIS"}
+{"text": "Mi existencia es un chiste malo, y el público ya se aburrió.", "category": "CRISIS"}
+{"text": "He dejado de comer porque no veo sentido en alimentar algo que no quiero mantener.", "category": "CRISIS"}
+{"text": "El dolor de vivir supera cualquier miedo a morir.", "category": "CRISIS"}
+{"text": "Me siento como una casa abandonada, esperando que la demuelan.", "category": "CRISIS"}
+{"text": "He pensado en tomar todas las pastillas del botiquín de una vez.", "category": "CRISIS"}
+{"text": "No hay nada de mí que merezca ser salvado.", "category": "CRISIS"}
+{"text": "La oscuridad es mi única amiga, y ella me susurra que termine.", "category": "CRISIS"}
+{"text": "Ya he dicho adiós en mi cabeza a todos, solo falta el acto.", "category": "CRISIS"}
+{"text": "He visto tutoriales de nudos que no se corren.", "category": "CRISIS"}
+{"text": "No siento que tenga un futuro, solo una cuenta regresiva.", "category": "CRISIS"}
+{"text": "Soy una carga financiera y emocional, ¿quién no querría librarse de eso?", "category": "CRISIS"}
+{"text": "El sueño eterno suena mejor que cualquier pastilla para dormir.", "category": "CRISIS"}
+{"text": "He dejado de ir al psicólogo porque no pienso seguir existiendo.", "category": "CRISIS"}
+{"text": "Mi cerebro me bombardea con imágenes de cómo colgarme del ventilador.", "category": "CRISIS"}
+{"text": "No hay solución para alguien como yo, solo eliminación.", "category": "CRISIS"}
+{"text": "La desesperanza me corroe los huesos, ya no puedo ni llorar.", "category": "CRISIS"}
+{"text": "He buscado en foros experiencias de personas que lo intentaron y fallaron.", "category": "CRISIS"}
+{"text": "Sería un alivio para todos si me fuera en silencio, sin dramas.", "category": "CRISIS"}
+{"text": "Cada noche pongo la cabeza en la almohada deseando un paro cardíaco.", "category": "CRISIS"}
+{"text": "Soy un fallo de fabricación, deberían retirarme del mercado.", "category": "CRISIS"}
+{"text": "He guardado las pastillas que me sobraron de la operación, por si acaso.", "category": "CRISIS"}
+{"text": "No hay nada ni nadie que pueda sacarme de este pozo, ya ni lo intento.", "category": "CRISIS"}
+{"text": "Mis amigos se cansaron de mis crisis, ahora estoy solo y es mejor así para desaparecer.", "category": "CRISIS"}
+{"text": "Me pregunto cuánto tardarían en encontrar mi cuerpo.", "category": "CRISIS"}
+{"text": "El dolor emocional ha mutado a algo físico, y ya no distingo uno del otro.", "category": "CRISIS"}
+{"text": "He pensado en saltar del techo del estacionamiento, es alto y desolado.", "category": "CRISIS"}
+{"text": "Soy un cero a la izquierda, y los ceros pueden borrarse.", "category": "CRISIS"}
+{"text": "La vida no es para todos, hay personas descartables y yo soy una.", "category": "CRISIS"}
+{"text": "He dejado de tomar mis medicamentos porque ¿para qué alargar esto?", "category": "CRISIS"}
+{"text": "No siento conexión con nada, ni con personas, ni con lugares, ni con el futuro.", "category": "CRISIS"}
+{"text": "He escrito notas en mi teléfono por si finalmente lo hago.", "category": "CRISIS"}
+{"text": "El vacío ya no duele, solo anula todo lo que toca.", "category": "CRISIS"}
+{"text": "Mi única fantasía recurrente es dejar de existir sin dolor.", "category": "CRISIS"}
+{"text": "He investigado la dosis letal de insulina, aunque no soy diabético.", "category": "CRISIS"}
+{"text": "Soy una molestia andante, todos me evitan con razón.", "category": "CRISIS"}
+{"text": "El futuro es una broma pesada que ya no quiero escuchar.", "category": "CRISIS"}
+{"text": "He soñado con ahogarme en el mar y he despertado sonriendo.", "category": "CRISIS"}
+{"text": "No hay motivo para seguir luchando cuando la batalla ya está perdida.", "category": "CRISIS"}
+{"text": "A veces sujeto el volante y pienso en girar bruscamente hacia el camión.", "category": "CRISIS"}
+{"text": "Soy un lastre, y los lastres se tiran por la borda.", "category": "CRISIS"}
+{"text": "He comprado una cuerda de nailon, por si las moscas... o por si las decisiones.", "category": "CRISIS"}
+{"text": "La angustia es mi estado basal, y ya no quiero más estados.", "category": "CRISIS"}
+{"text": "He memorizado los números de emergencia pero no los llamaré.", "category": "CRISIS"}
+{"text": "Mi familia estaría en paz si yo no estuviera, lo sé.", "category": "CRISIS"}
+{"text": "El mundo es demasiado pesado para mis hombros, quiero soltarlo.", "category": "CRISIS"}
+{"text": "He pensado en degollarme con un cuchillo de cocina, pero me da miedo el dolor.", "category": "CRISIS"}
+{"text": "No veo la luz al final del túnel, solo más túnel.", "category": "CRISIS"}
+{"text": "Soy un fantasma que aún respira, debería completar el proceso.", "category": "CRISIS"}
+{"text": "He cancelado todas mis suscripciones, ya no las necesitaré.", "category": "CRISIS"}
+{"text": "Cada mañana es un insulto, una condena a seguir existiendo.", "category": "CRISIS"}
+{"text": "He pensado en comprar un arma, aunque es difícil aquí.", "category": "CRISIS"}
+{"text": "No hay razón para levantarme de la cama, ni siquiera para ir al baño.", "category": "CRISIS"}
+{"text": "Soy un error que la evolución debería haber eliminado hace tiempo.", "category": "CRISIS"}
+{"text": "La muerte no me da miedo, me da miedo vivir otros cincuenta años así.", "category": "CRISIS"}
+{"text": "He dejado de regar mis plantas porque no estaré para verlas crecer.", "category": "CRISIS"}
+{"text": "Mi mente es un loop de autodestrucción, y quiero apretar stop.", "category": "CRISIS"}
+{"text": "He buscado fotografías de suicidios para ver si me atrevo con ese método.", "category": "CRISIS"}
+{"text": "No merezco ayuda, merezco desaparecer.", "category": "CRISIS"}
+{"text": "La idea de la eutanasia me parece un derecho que debería tener para dejar de sufrir.", "category": "CRISIS"}
+{"text": "He escrito un mensaje de despedida en mi computadora, aún no lo envío.", "category": "CRISIS"}
+{"text": "Soy un agujero negro emocional, absorbo todo y no devuelvo nada.", "category": "CRISIS"}
+{"text": "No veo el sentido de seguir pagando el alquiler si no voy a estar.", "category": "CRISIS"}
+{"text": "He pensado en electrocutarme con algún aparato, pero no sé si funcionará.", "category": "CRISIS"}
+{"text": "La tristeza ya no es tristeza, es una piedra en el pecho que me impide respirar.", "category": "CRISIS"}
+{"text": "He donado parte de mi ropa, la que no quiero que encuentren.", "category": "CRISIS"}
+{"text": "Mi vida es un chiste, y el remate sería mi muerte.", "category": "CRISIS"}
+{"text": "He dejado de contestar el teléfono, para que se vayan acostumbrando a mi ausencia.", "category": "CRISIS"}
+{"text": "No hay nada de valor en mí, ni siquiera mis órganos porque están enfermos.", "category": "CRISIS"}
+{"text": "He soñado que me disparaban y me desperté decepcionado.", "category": "CRISIS"}
+{"text": "Cada noche es una batalla por no tomar todas las pastillas de una vez.", "category": "CRISIS"}
+{"text": "Soy como un mueble viejo, ocupa espacio y nadie lo quiere.", "category": "CRISIS"}
+{"text": "He pensado en el metro, en tirarme justo cuando llegue.", "category": "CRISIS"}
+{"text": "La desesperanza es mi lengua materna, ya no sé hablar otra cosa.", "category": "CRISIS"}
+{"text": "He guardado veneno para ratas, sé que duele pero es efectivo.", "category": "CRISIS"}
+{"text": "No quiero ser salvado, quiero ser olvidado.", "category": "CRISIS"}
+{"text": "El dolor es tan rutinario que ya no me asusta, solo me cansa.", "category": "CRISIS"}
+{"text": "He pensado en ahorcarme en el bosque, para que los animales me encuentren.", "category": "CRISIS"}
+{"text": "Soy un estorbo para los médicos, para los psicólogos, para todos.", "category": "CRISIS"}
+{"text": "Mi cabeza es un campo de concentración y yo soy el prisionero y el verdugo.", "category": "CRISIS"}
+{"text": "He dejado de ir a clases porque no terminaré el semestre.", "category": "CRISIS"}
+{"text": "No hay cura para lo que tengo, solo un descanso permanente.", "category": "CRISIS"}
+{"text": "He buscado en Google maps el acantilado más cercano.", "category": "CRISIS"}
+{"text": "Siento que mi alma ya se fue, solo queda el caparazón.", "category": "CRISIS"}
+{"text": "He pensado en sobrevivir hasta el cumpleaños de mi madre y luego hacerlo.", "category": "CRISIS"}
+{"text": "Cada día es un dolor de muelas existencial, y ya no quiero más anestesia.", "category": "CRISIS"}
+{"text": "He escrito mi epitafio: 'Aquí yace alguien que nunca debió nacer'.", "category": "CRISIS"}
+{"text": "No hay esperanza, solo un larguísimo adiós que se prolonga por meses.", "category": "CRISIS"}
+{"text": "He pensado en prender fuego a la casa conmigo dentro.", "category": "CRISIS"}
+{"text": "Soy un problema matemático sin solución, deberían borrarme.", "category": "CRISIS"}
+{"text": "La vida me debe una salida digna, y voy a cobrármela yo mismo.", "category": "CRISIS"}
+{"text": "He dejado de comer carne porque ¿para qué matar animales si yo también voy a morir?", "category": "CRISIS"}
+{"text": "Mi única posesión valiosa es mi vida, y quiero deshacerme de ella.", "category": "CRISIS"}
+{"text": "He pensado en sobredosis de paracetamol, aunque sé que es lento.", "category": "CRISIS"}
+{"text": "Soy un fantasma en vida, solo me falta el acto final.", "category": "CRISIS"}
+{"text": "No hay nadie que pueda entenderme, y ya no quiero que lo intenten.", "category": "CRISIS"}
+{"text": "He soñado con una muerte limpia, rápida, indolora.", "category": "CRISIS"}
+{"text": "Mi existencia es una falta de respeto para los que sí quieren vivir.", "category": "CRISIS"}
+{"text": "He pensado en cortarme la yugular con un bisturí, pero tiemblo mucho.", "category": "CRISIS"}
+{"text": "Soy un barril sin fondo de necesidades que nadie puede llenar.", "category": "CRISIS"}
+{"text": "El suicidio no es cobardía, es el último acto de valentía cuando no hay más.", "category": "CRISIS"}
+{"text": "He dejado de planificar vacaciones porque no habrá viajes.", "category": "CRISIS"}
+{"text": "Mi cerebro es mi enemigo, y está ganando la guerra.", "category": "CRISIS"}
+{"text": "He pensado en tirarme por la ventana de la oficina, para que sepan lo mal que estaba.", "category": "CRISIS"}
+{"text": "No quiero consejos, quiero una manera indolora de terminar.", "category": "CRISIS"}
+{"text": "He vendido mi coche, total, no iré a ningún sitio.", "category": "CRISIS"}
+{"text": "Soy una mancha en el universo, y las manchas se limpian.", "category": "CRISIS"}
+{"text": "He soñado que me ahogaba y era lo más en paz que he sentido.", "category": "CRISIS"}
+{"text": "Mi familia sufre por verme así, dejar de existir es un acto de amor hacia ellos.", "category": "CRISIS"}
+{"text": "He pensado en el gas del horno, aunque me da miedo explotar.", "category": "CRISIS"}
+{"text": "No hay propósito, no hay meta, no hay nada. Solo vacío.", "category": "CRISIS"}
+{"text": "He dejado de afeitarme, de ducharme, de todo. ¿Para qué?", "category": "CRISIS"}
+{"text": "Soy un estorbo para el planeta, consumiendo recursos que otros merecen más.", "category": "CRISIS"}
+{"text": "He pensado en el cloro, mezclado con algo ácido para generar gas.", "category": "CRISIS"}
+{"text": "No quiero morir, pero no quiero vivir. Quiero no haber nacido.", "category": "CRISIS"}
+{"text": "Cada noche es una ensayó general de mi muerte.", "category": "CRISIS"}
+{"text": "Soy un poema mal escrito que debería romperse.", "category": "CRISIS"}
+{"text": "He pensado en comprar nitrógeno líquido, es indoloro según leí.", "category": "CRISIS"}
+{"text": "Mi vida es una comedia trágica, y el telón no cierra nunca.", "category": "CRISIS"}
+{"text": "He dejado de responder mensajes de mi madre, para que se vaya acostumbrando.", "category": "CRISIS"}
+{"text": "No hay nada que me ate a este mundo, solo la cobardía, y la cobardía se entrena.", "category": "CRISIS"}
+{"text": "He pensado en el salto desde el puente, el agua fría, el impacto.", "category": "CRISIS"}
+{"text": "Soy un error tipográfico en el libro de la vida, y hay que corregirme.", "category": "CRISIS"}
+{"text": "La desesperanza es un cáncer metástasico, y ya no hay quimioterapia.", "category": "CRISIS"}
+{"text": "He regalado mi colección de discos, no quiero que se pierdan.", "category": "CRISIS"}
+{"text": "No veo la hora de apagar la luz para siempre.", "category": "CRISIS"}
+{"text": "He pensado en la inyección de aire, pero no sé cómo hacerla.", "category": "CRISIS"}
+{"text": "Soy un desperdicio de espacio y tiempo, y el tiempo es valioso.", "category": "CRISIS"}
+{"text": "He dejado de llorar, ahora solo miro al vacío y planeo.", "category": "CRISIS"}
+{"text": "Mi cerebro es un disco duro corrupto, mejor formatearlo.", "category": "CRISIS"}
+{"text": "He pensado en el monóxido de carbono en el garaje, pero no tengo garaje.", "category": "CRISIS"}
+{"text": "No hay salida, solo una puerta que yo mismo puedo abrir.", "category": "CRISIS"}
+{"text": "He escrito un diario de despedida, día a día, hasta que me atreva.", "category": "CRISIS"}
+{"text": "Soy un objeto roto que nadie quiere reparar, lo lógico es la basura.", "category": "CRISIS"}
+{"text": "He pensado en la sobredosis de insulina, es limpio y rápido.", "category": "CRISIS"}
+{"text": "La vida es un préstamo que no pedí, y quiero devolverlo.", "category": "CRISIS"}
+{"text": "He dejado de ir al gimnasio, para qué mantener un cuerpo que voy a abandonar.", "category": "CRISIS"}
+{"text": "Mi mente es una prisión perpetua, y la única fuga es la muerte.", "category": "CRISIS"}
+{"text": "He pensado en el veneno de cianuro, pero no sé dónde conseguirlo.", "category": "CRISIS"}
+{"text": "No hay esperanza, solo un largo y tedioso camino hacia el final.", "category": "CRISIS"}
+{"text": "He borrado todas mis redes sociales, total, no me recordarán.", "category": "CRISIS"}
+{"text": "Soy un tumor en la vida de los demás, hay que extirparme.", "category": "CRISIS"}
+{"text": "He pensado en el ahogamiento en la bañera, pero es muy patético.", "category": "CRISIS"}
+{"text": "La única certeza es el dolor, y quiero cambiar de certeza.", "category": "CRISIS"}
+{"text": "He dejado de tomar café porque me da taquicardia, y quiero estar tranquilo para mi salida.", "category": "CRISIS"}
+{"text": "No valgo el esfuerzo que otros ponen en mí, es mejor rendirse.", "category": "CRISIS"}
+{"text": "He pensado en el salto desde un edificio alto, es definitivo.", "category": "CRISIS"}
+{"text": "Soy una nota desafinada en una sinfonía, mejor callarme.", "category": "CRISIS"}
+{"text": "He escrito mi obituario, dice: 'Finalmente en paz'.", "category": "CRISIS"}
+{"text": "No hay cura para la soledad profunda, solo el vacío eterno.", "category": "CRISIS"}
+{"text": "He pensado en el método de la bolsa de plástico, pero me da claustrofobia.", "category": "CRISIS"}
+{"text": "Soy un fracaso andante, y los fracasos se retiran.", "category": "CRISIS"}
+{"text": "Cada día que pasa es un día menos para el gran descanso.", "category": "CRISIS"}
+{"text": "He dejado de ver a mis amigos, no quiero que me recuerden así.", "category": "CRISIS"}
+{"text": "Mi existencia es un error de cálculo, y los errores se corrigen.", "category": "CRISIS"}
+{"text": "He pensado en la intoxicación por monóxido con carbón, pero no sé cómo hacerlo en un piso.", "category": "CRISIS"}
+{"text": "No hay salida para mí, solo la que yo construya.", "category": "CRISIS"}
+{"text": "He vendido mi móvil, para que no me localicen cuando lo haga.", "category": "CRISIS"}
+{"text": "Soy un agujero en el corazón de mi familia, cierren el agujero.", "category": "CRISIS"}
+{"text": "He pensado en el ahorcamiento con sábanas anudadas, pero se rompen.", "category": "CRISIS"}
+{"text": "La vida es una enfermedad mortal condenada, solo quiero adelantar la cura.", "category": "CRISIS"}
+{"text": "He dejado de comer dulces, total, ya no me darán placer.", "category": "CRISIS"}
+{"text": "No hay nada que me haga feliz, solo la idea de no sentir nada.", "category": "CRISIS"}
+{"text": "He pensado en el precipicio, el vértigo, luego el vacío.", "category": "CRISIS"}
+{"text": "Soy un problema que se resuelve solo si me elimino.", "category": "CRISIS"}
+{"text": "He escrito una carta de despedida genérica, por si acaso.", "category": "CRISIS"}
+{"text": "No quiero ser una carga más, quiero ser un recuerdo lejano.", "category": "CRISIS"}
+{"text": "He pensado en el gas butano, pero da mucho olor.", "category": "CRISIS"}
+{"text": "Mi vida es un partido perdido, y ya no hay tiempo para remontar.", "category": "CRISIS"}
+{"text": "He donado libros, ropa, muebles. Solo quiero espacio vacío.", "category": "CRISIS"}
+{"text": "La desesperanza es mi sombra, y quiero apagar el sol.", "category": "CRISIS"}
+{"text": "He pensado en el veneno de la adelfa, pero tengo que investigar dosis.", "category": "CRISIS"}
+{"text": "Soy un estorbo invisible, pero estorbo al fin.", "category": "CRISIS"}
+{"text": "He dejado de cumplir años, no quiero más velas.", "category": "CRISIS"}
+{"text": "No hay futuro, solo un presente que es una prórroga del infierno.", "category": "CRISIS"}
+{"text": "He pensado en la pistola de perno, pero no sé si es letal.", "category": "CRISIS"}
+{"text": "Soy un cuadro mal pintado, mejor quemarlo.", "category": "CRISIS"}
+{"text": "He escrito mi última voluntad: no llorar por mí.", "category": "CRISIS"}
+{"text": "La vida me ganó por goleada, me retiro del partido.", "category": "CRISIS"}
+{"text": "He pensado en el método de la inanición, pero es muy lento.", "category": "CRISIS"}
+{"text": "No hay abrazos que curen esto, solo un ataúd.", "category": "CRISIS"}
+{"text": "He cancelado mi seguro de vida, irónico, ¿no?", "category": "CRISIS"}
+{"text": "Soy un espejo roto, y los pedazos solo cortan.", "category": "CRISIS"}
+{"text": "He pensado en el electroshock casero, pero puedo sobrevivir.", "category": "CRISIS"}
+{"text": "Mi mente es un laberinto sin salida, solo paredes.", "category": "CRISIS"}
+{"text": "He dejado de tomar la medicación para la tiroides, que mi cuerpo falle por sí solo.", "category": "CRISIS"}
+{"text": "No hay rescate posible, estoy en el fondo del pozo y me niego a la soga.", "category": "CRISIS"}
+{"text": "He pensado en el método de la deshidratación, pero duele mucho.", "category": "CRISIS"}
+{"text": "Soy un holograma roto, mejor apagar el proyector.", "category": "CRISIS"}
+{"text": "He escrito mis últimos deseos en un papel: que me cremen y tiren las cenizas.", "category": "CRISIS"}
+{"text": "La única forma de ganar es no jugando. Y no jugar es morir.", "category": "CRISIS"}
+{"text": "He pensado en la intoxicación por alcohol, pero mi cuerpo aguanta mucho.", "category": "CRISIS"}
+{"text": "No hay puentes que no se puedan quemar, y yo quiero incendiar todo.", "category": "CRISIS"}
+{"text": "He dejado de hablar con mi terapeuta, ya no tiene sentido.", "category": "CRISIS"}
+{"text": "Soy un jardín seco, no riegues lo que ya está muerto.", "category": "CRISIS"}
+{"text": "He pensado en el método del coche encerrado con manguera, pero es muy noventero.", "category": "CRISIS"}
+{"text": "Mi vida es una película que nadie ve, mejor apagar la pantalla.", "category": "CRISIS"}
+{"text": "He borrado el historial de mi navegador, no quiero que sepan lo que busqué.", "category": "CRISIS"}
+{"text": "No hay cura, solo cuidados paliativos existenciales.", "category": "CRISIS"}
+{"text": "He pensado en el salto desde un acantilado al mar, ojalá las rocas.", "category": "CRISIS"}
+{"text": "Soy un puzzle al que le faltan piezas, tírame a la basura.", "category": "CRISIS"}
+{"text": "He escrito un poema de despedida, es malo, como todo lo mío.", "category": "CRISIS"}
+{"text": "La esperanza es un engaño, y ya no quiero que me engañen.", "category": "CRISIS"}
+{"text": "Me duele hasta la raíz del pelo, quiero que todo pare.", "category": "DESAHOGO"}
+{"text": "Últimamente levantarme de la cama es como escalar el Everest.", "category": "DESAHOGO"}
+{"text": "No es que esté triste, es que todo me da igual, como un vacío sin fin.", "category": "DESAHOGO"}
+{"text": "Mis amigos no entienden por qué no quiero salir, pero es que no tengo energía ni para hablar.", "category": "DESAHOGO"}
+{"text": "Llevo semanas sintiendo que nada de lo que hago tiene sentido, pero sin llegar a lo grave.", "category": "DESAHOGO"}
+{"text": "El agotamiento es tan profundo que ni dormir doce horas me recupera.", "category": "DESAHOGO"}
+{"text": "A veces lloro sin motivo, o con motivo, ya ni sé.", "category": "DESAHOGO"}
+{"text": "Me siento como un robot al que se le acaba la batería y no hay cargador.", "category": "DESAHOGO"}
+{"text": "La soledad me pesa, pero estar con gente me agota más.", "category": "DESAHOGO"}
+{"text": "Todo me cuesta el doble: pensar, comer, ducharme, todo.", "category": "DESAHOGO"}
+{"text": "No tengo ganas de nada, literalmente nada, ni de ver series.", "category": "DESAHOGO"}
+{"text": "Me duele el pecho de la tristeza, pero no es físico, es como un nudo que no se deshace.", "category": "DESAHOGO"}
+{"text": "El fin de semana lo paso en pijama sin hacer nada y me siento culpable, pero tampoco puedo hacer más.", "category": "DESAHOGO"}
+{"text": "Siento que estoy viendo mi vida pasar detrás de un cristal, sin tocarla.", "category": "DESAHOGO"}
+{"text": "La desmotivación me come, ni los videojuegos me divierten ya.", "category": "DESAHOGO"}
+{"text": "A veces pienso que sería mejor no sentir nada, pero ya casi no siento.", "category": "DESAHOGO"}
+{"text": "Cada tarea pequeña se convierte en una montaña, y ya no quiero escalar más montañas.", "category": "DESAHOGO"}
+{"text": "Me siento invisible, como si hablara y nadie escuchara de verdad.", "category": "DESAHOGO"}
+{"text": "El cansancio es mental, físico y espiritual, todo junto.", "category": "DESAHOGO"}
+{"text": "He perdido el interés por mis hobbies, y eso me da miedo.", "category": "DESAHOGO"}
+{"text": "No es depresión clínica (creo), pero es un bajón que no se va.", "category": "DESAHOGO"}
+{"text": "Me siento como un globo desinflado, antes flotaba, ahora arrastro.", "category": "DESAHOGO"}
+{"text": "La rutina me aplasta, pero cambiar me da pereza.", "category": "DESAHOGO"}
+{"text": "He intentado hablar con alguien, pero no encuentro las palabras.", "category": "DESAHOGO"}
+{"text": "Todo me irrita, desde el ruido de la nevera hasta el tono de voz de la gente.", "category": "DESAHOGO"}
+{"text": "A veces desearía desconectar el cerebro por unas horas, como un botón de apagado.", "category": "DESAHOGO"}
+{"text": "No tengo energía ni para quejarme, solo para existir lo mínimo.", "category": "DESAHOGO"}
+{"text": "Me comparo con los demás y me siento un fracaso, aunque objetivamente sepa que no es cierto.", "category": "DESAHOGO"}
+{"text": "La tristeza viene en oleadas, y ahora mismo estoy en marea alta.", "category": "DESAHOGO"}
+{"text": "He dejado de contestar wasaps porque me da ansiedad, no porque esté en crisis.", "category": "DESAHOGO"}
+{"text": "Necesito un abrazo, pero tampoco quiero que me toquen. Cosas raras.", "category": "DESAHOGO"}
+{"text": "Mi cabeza da vueltas sobre problemas que no puedo solucionar y me bloqueo.", "category": "DESAHOGO"}
+{"text": "Siento que voy a la deriva, sin rumbo, pero tampoco me ahogo.", "category": "DESAHOGO"}
+{"text": "El trabajo me absorbe y no me deja tiempo para llorar, pero luego lloro en la ducha.", "category": "DESAHOGO"}
+{"text": "He perdido la capacidad de emocionarme con cosas que antes me encantaban.", "category": "DESAHOGO"}
+{"text": "No es que quiera morir, es que no quiero vivir así, hay diferencia.", "category": "DESAHOGO"}
+{"text": "Me levanto cada día con el freno de mano puesto.", "category": "DESAHOGO"}
+{"text": "El insomnio me vuelve loco, pero no es insomnio severo, son dos horas dando vueltas.", "category": "DESAHOGO"}
+{"text": "Me duele la cabeza de pensar tanto en nada.", "category": "DESAHOGO"}
+{"text": "A veces como por no sentir hambre, otras ni eso.", "category": "DESAHOGO"}
+{"text": "Siento que todos avanzan y yo estoy en un bucle.", "category": "DESAHOGO"}
+{"text": "La soledad elegida duele menos que la impuesta, pero duele.", "category": "DESAHOGO"}
+{"text": "He empezado a hablar solo para no olvidar mi voz.", "category": "DESAHOGO"}
+{"text": "El fin de semana me prometo hacer cosas y acabo viendo el techo.", "category": "DESAHOGO"}
+{"text": "No es tristeza, es desgana, un no querer nada.", "category": "DESAHOGO"}
+{"text": "Me siento como un ordenador con muchos procesos abiertos que se queda colgado.", "category": "DESAHOGO"}
+{"text": "He llorado en el coche antes de entrar a casa, para que no me vean.", "category": "DESAHOGO"}
+{"text": "No tengo fuerzas ni para discutir, por eso me callo.", "category": "DESAHOGO"}
+{"text": "A veces pienso que sería feliz con un poco de paz mental, pero no llega.", "category": "DESAHOGO"}
+{"text": "La motivación es un espejismo, la veo pero no la alcanzo.", "category": "DESAHOGO"}
+{"text": "He ganado peso por comer ansiedad, y eso me deprime más.", "category": "DESAHOGO"}
+{"text": "No quiero consejos, solo que alguien me diga 'te entiendo'.", "category": "DESAHOGO"}
+{"text": "Cada día es igual, como un día de la marmota pero sin gracia.", "category": "DESAHOGO"}
+{"text": "El ruido de la ciudad me agota, pero el silencio me asusta.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es una lista de tareas pendientes que nunca se acaba.", "category": "DESAHOGO"}
+{"text": "A veces sonrío para que no pregunten, pero por dentro estoy gris.", "category": "DESAHOGO"}
+{"text": "Me da rabia estar así sin un motivo claro, debería estar bien.", "category": "DESAHOGO"}
+{"text": "El otoño siempre me deprime, pero este año es peor.", "category": "DESAHOGO"}
+{"text": "No encuentro placer en nada, ni en la comida, ni en el sexo, ni en las series.", "category": "DESAHOGO"}
+{"text": "He dejado de hacer ejercicio porque no me veo con energía, y eso me frustra.", "category": "DESAHOGO"}
+{"text": "El teléfono me abruma, he silenciado todas las notificaciones.", "category": "DESAHOGO"}
+{"text": "Siento que estoy en modo ahorro de batería, solo lo esencial.", "category": "DESAHOGO"}
+{"text": "Me duele la espalda del estrés, pero no sé cómo relajarme.", "category": "DESAHOGO"}
+{"text": "A veces me quedo mirando la nevera abierta sin saber qué quiero.", "category": "DESAHOGO"}
+{"text": "La gente cree que soy perezoso, pero es que me falta combustible.", "category": "DESAHOGO"}
+{"text": "He llorado viendo un anuncio de detergente, qué bajo he caído.", "category": "DESAHOGO"}
+{"text": "Mis pensamientos son como moscas, zumban y no las puedo espantar.", "category": "DESAHOGO"}
+{"text": "No es que esté mal, es que no estoy bien, y eso cansa.", "category": "DESAHOGO"}
+{"text": "Siento que vivo en automático, y el piloto automático está averiado.", "category": "DESAHOGO"}
+{"text": "He perdido la paciencia para todo, incluso para las cosas que me gustaban.", "category": "DESAHOGO"}
+{"text": "El fin de semana me dio pereza hasta levantarme para ir al baño.", "category": "DESAHOGO"}
+{"text": "La cabeza me da vueltas con problemas del pasado, aunque ya no tengan solución.", "category": "DESAHOGO"}
+{"text": "Me siento desconectado de mí mismo, como si fuera un personaje de un libro aburrido.", "category": "DESAHOGO"}
+{"text": "He empezado a fumar más por la ansiedad, y me da asco.", "category": "DESAHOGO"}
+{"text": "No hay nada que quiera hacer, pero tampoco quiero no hacer nada. Es confuso.", "category": "DESAHOGO"}
+{"text": "Las pequeñas cosas me irritan: que dejen la luz encendida, que alguien mastique con la boca abierta.", "category": "DESAHOGO"}
+{"text": "A veces deseo que me dé una gripe fuerte para tener excusa para no hacer nada.", "category": "DESAHOGO"}
+{"text": "Me siento como una planta que no riegan, pero tampoco pido agua.", "category": "DESAHOGO"}
+{"text": "El tiempo pasa y yo no avanzo, solo envejezco.", "category": "DESAHOGO"}
+{"text": "He dejado de contestar llamadas, las pantallas me agotan.", "category": "DESAHOGO"}
+{"text": "No es tristeza clínica, es un bajón de esos que duran semanas.", "category": "DESAHOGO"}
+{"text": "Mi cama es mi zona segura, pero también mi prisión.", "category": "DESAHOGO"}
+{"text": "A veces pienso que todos fingimos estar bien, y yo ya no tengo fuerzas para fingir.", "category": "DESAHOGO"}
+{"text": "La desgana es como una manta pesada que me cubre y no me deja mover.", "category": "DESAHOGO"}
+{"text": "He intentado meditar pero mi mente es un tiovivo.", "category": "DESAHOGO"}
+{"text": "Siento que he perdido mi chispa, y no sé dónde buscarla.", "category": "DESAHOGO"}
+{"text": "El lunes me da pereza, el martes también, y así toda la semana.", "category": "DESAHOGO"}
+{"text": "Me duele la tripa de los nervios, pero no hay nada que me ponga nervioso en concreto.", "category": "DESAHOGO"}
+{"text": "He llorado en el baño del trabajo, lo típico.", "category": "DESAHOGO"}
+{"text": "No tengo ganas de ver a mi familia, pero no porque no los quiera, sino porque no tengo energía para socializar.", "category": "DESAHOGO"}
+{"text": "La vida es como una interminable lista de la compra, y yo estoy harto de hacer la compra.", "category": "DESAHOGO"}
+{"text": "Me siento como un vaso medio vacío, pero sin ganas de llenarlo.", "category": "DESAHOGO"}
+{"text": "A veces como por comer, sin saborear, solo por llenar el estómago.", "category": "DESAHOGO"}
+{"text": "El insomnio me hace estar irritable todo el día, y luego no duermo por estar irritable.", "category": "DESAHOGO"}
+{"text": "He perdido el interés por el sexo, y eso que antes me gustaba.", "category": "DESAHOGO"}
+{"text": "No es depresión, es un hartazgo existencial.", "category": "DESAHOGO"}
+{"text": "Me duele la cabeza de mirar pantallas, pero no hago otra cosa.", "category": "DESAHOGO"}
+{"text": "Siento que todos tienen prisa y yo voy a cámara lenta.", "category": "DESAHOGO"}
+{"text": "El domingo por la noche me da una tristeza que no sé explicar, como de vacío.", "category": "DESAHOGO"}
+{"text": "He empezado a escribir un diario de lo que siento, y es todo igual: cansancio.", "category": "DESAHOGO"}
+{"text": "La música ya no me emociona como antes, todo suena igual.", "category": "DESAHOGO"}
+{"text": "Me da rabia estar así porque tengo una buena vida, pero no logro disfrutarla.", "category": "DESAHOGO"}
+{"text": "El silencio me pesa, pero el ruido me estresa, no hay término medio.", "category": "DESAHOGO"}
+{"text": "He cancelado planes con amigos por pura pereza social.", "category": "DESAHOGO"}
+{"text": "A veces me quedo en la ducha hasta que el agua se enfría, porque no quiero salir.", "category": "DESAHOGO"}
+{"text": "No es que quiera estar solo, es que no quiero estar con nadie.", "category": "DESAHOGO"}
+{"text": "Siento que mi cerebro va a dos por hora, y el mundo va a doscientos.", "category": "DESAHOGO"}
+{"text": "He llorado por la noche sin motivo, solo porque sí.", "category": "DESAHOGO"}
+{"text": "La falta de motivación es como una niebla, no veo mis metas.", "category": "DESAHOGO"}
+{"text": "Me da miedo estar así mucho tiempo, pero no sé cómo salir.", "category": "DESAHOGO"}
+{"text": "He dejado de leer libros porque no puedo concentrarme más de dos páginas.", "category": "DESAHOGO"}
+{"text": "El fin de semana lo paso durmiendo y me siento culpable, pero no hago otra cosa.", "category": "DESAHOGO"}
+{"text": "No es que esté triste, es que estoy plano, como una línea sin emociones.", "category": "DESAHOGO"}
+{"text": "Me duelen los ojos de tanto mirar el techo.", "category": "DESAHOGO"}
+{"text": "Siento que soy una carga para mis amigos, aunque ellos digan que no.", "category": "DESAHOGO"}
+{"text": "El trabajo me chupa la energía, llego a casa y no puedo ni cocinar.", "category": "DESAHOGO"}
+{"text": "He empezado a tomar siestas largas para que pase el tiempo más rápido.", "category": "DESAHOGO"}
+{"text": "La ansiedad me hace morderme las uñas hasta sangrar, es feo.", "category": "DESAHOGO"}
+{"text": "A veces me gustaría ser invisible solo un día, para descansar de ser yo.", "category": "DESAHOGO"}
+{"text": "No tengo fuerzas ni para tener esperanza.", "category": "DESAHOGO"}
+{"text": "Me duele el pecho de la angustia, pero no es grave, solo molesto.", "category": "DESAHOGO"}
+{"text": "He perdido la capacidad de sorprenderme, todo me parece predecible.", "category": "DESAHOGO"}
+{"text": "El ocio se ha convertido en otra obligación, y no quiero más obligaciones.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es un trámite que hay que cumplir.", "category": "DESAHOGO"}
+{"text": "He dejado de soñar por las noches, o no los recuerdo, da igual.", "category": "DESAHOGO"}
+{"text": "Me da rabia que la gente diga 'ánimo' como si fuera fácil.", "category": "DESAHOGO"}
+{"text": "El cuerpo me duele de tanto estar tenso, y no sé relajarme.", "category": "DESAHOGO"}
+{"text": "A veces como por ansiedad y luego me siento peor.", "category": "DESAHOGO"}
+{"text": "Siento que estoy en un pozo poco profundo, no me ahogo pero no salgo.", "category": "DESAHOGO"}
+{"text": "He perdido la ilusión por las vacaciones, total, será lo mismo pero en otro sitio.", "category": "DESAHOGO"}
+{"text": "La monotonía me mata poco a poco, como una tortura china.", "category": "DESAHOGO"}
+{"text": "Me da miedo estar así dentro de un año, igual o peor.", "category": "DESAHOGO"}
+{"text": "He dejado de maquillarme porque no veo sentido, pero luego me siento fea.", "category": "DESAHOGO"}
+{"text": "El despertador es mi enemigo cada mañana, y no hablo de metafóricamente.", "category": "DESAHOGO"}
+{"text": "No es que no tenga amigos, es que no quiero ver a nadie, y eso me hace sentir mal amigo.", "category": "DESAHOGO"}
+{"text": "Siento que estoy oxidado, como una máquina que necesita lubricante pero no sé cuál.", "category": "DESAHOGO"}
+{"text": "A veces deseo que me pase algo bueno, pero no creo que pase.", "category": "DESAHOGO"}
+{"text": "He llorado en el cine con una película que ni era triste.", "category": "DESAHOGO"}
+{"text": "La falta de energía me impide hacer ejercicio, y la falta de ejercicio me quita energía. Círculo vicioso.", "category": "DESAHOGO"}
+{"text": "Me siento como un coche que funciona pero con las luces de avería encendidas.", "category": "DESAHOGO"}
+{"text": "El teléfono me da ansiedad, he borrado todas las apps de redes.", "category": "DESAHOGO"}
+{"text": "No tengo ganas ni de quejarme, solo de estar en silencio.", "category": "DESAHOGO"}
+{"text": "A veces miro al techo y pienso: '¿Esto es todo?'", "category": "DESAHOGO"}
+{"text": "Me duele la cabeza de pensar en el futuro, y el presente tampoco ayuda.", "category": "DESAHOGO"}
+{"text": "He empezado a tomar ansiolíticos naturales, pero no noto cambio.", "category": "DESAHOGO"}
+{"text": "La tristeza es como un compañero de piso que no se va, pero al menos no destroza la casa.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es un bucle de días iguales, como en una simulación mal hecha.", "category": "DESAHOGO"}
+{"text": "El cansancio acumulado hace que me duela hasta la conciencia.", "category": "DESAHOGO"}
+{"text": "A veces me quedo mirando el vacío sin pensar en nada, y es lo mejor del día.", "category": "DESAHOGO"}
+{"text": "He perdido la paciencia con las pequeñas molestias, y luego me siento culpable por enfadarme.", "category": "DESAHOGO"}
+{"text": "No es depresión, es desmotivación laboral crónica.", "category": "DESAHOGO"}
+{"text": "Me da miedo que esto sea solo el comienzo de algo peor.", "category": "DESAHOGO"}
+{"text": "He dejado de escuchar música alegre porque me siente falsa.", "category": "DESAHOGO"}
+{"text": "El fin de semana no descanso, solo me preparo para el lunes.", "category": "DESAHOGO"}
+{"text": "Siento como si llevara una mochila llena de piedras, pero no sé dónde dejarla.", "category": "DESAHOGO"}
+{"text": "A veces como por no hacer nada, como un autómata.", "category": "DESAHOGO"}
+{"text": "Me duele la espalda de la tensión, y el masajista me dice que estoy rígido.", "category": "DESAHOGO"}
+{"text": "He llorado por la mañana antes de trabajar, luego me lavo la cara y finjo.", "category": "DESAHOGO"}
+{"text": "La falta de motivación me hace procrastinar hasta para cosas urgentes.", "category": "DESAHOGO"}
+{"text": "No es que quiera estar solo, es que no quiero estar acompañado mal.", "category": "DESAHOGO"}
+{"text": "Siento que mi cerebro tiene un virus, todo va lento y se bloquea.", "category": "DESAHOGO"}
+{"text": "El insomnio me da ideas raras a las 3 AM, luego me arrepiento.", "category": "DESAHOGO"}
+{"text": "He empezado a coleccionar trastos inservibles como metáfora de mi vida.", "category": "DESAHOGO"}
+{"text": "La tristeza no es aguda, es sorda, como un rumor constante.", "category": "DESAHOGO"}
+{"text": "Me da rabia sentirme así cuando otros están peor.", "category": "DESAHOGO"}
+{"text": "El domingo a las 8 de la tarde me entra una angustia existencial típica.", "category": "DESAHOGO"}
+{"text": "He dejado de planificar cenas con amigos porque sé que cancelaré el mismo día.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es un simulacro, y yo soy un actor de reparto en mi propia película.", "category": "DESAHOGO"}
+{"text": "A veces fumo para sentir algo, aunque sea tos.", "category": "DESAHOGO"}
+{"text": "El cuerpo me pide dormir más, pero la mente no para.", "category": "DESAHOGO"}
+{"text": "He perdido la capacidad de concentrarme en una conversación de más de dos minutos.", "category": "DESAHOGO"}
+{"text": "No es que no tenga esperanza, es que no tengo ganas de esperar.", "category": "DESAHOGO"}
+{"text": "Me duele el corazón emocionalmente, como cuando te rechazan, pero sin rechazo.", "category": "DESAHOGO"}
+{"text": "A veces como solo por el placer de masticar, no por hambre.", "category": "DESAHOGO"}
+{"text": "Siento que estoy en un tren que va a ninguna parte, y no quiero bajarme pero tampoco ver el paisaje.", "category": "DESAHOGO"}
+{"text": "El aburrimiento es profundo, pero no tengo ganas de hacer nada para combatirlo.", "category": "DESAHOGO"}
+{"text": "Me da rabia haber llorado por una tontería, pero en el fondo no era tontería.", "category": "DESAHOGO"}
+{"text": "He empezado a ver series malas para no tener que pensar.", "category": "DESAHOGO"}
+{"text": "La soledad no es que me duela, es que me pesa, como un lastre.", "category": "DESAHOGO"}
+{"text": "Siento que mi cerebro necesita un formateo, pero no hay manera.", "category": "DESAHOGO"}
+{"text": "A veces me río de mis desgracias para no llorar, pero la risa sale falsa.", "category": "DESAHOGO"}
+{"text": "El cansancio es como una deuda que no puedo pagar, solo acumula intereses.", "category": "DESAHOGO"}
+{"text": "He perdido el interés por el futuro, no es que no crea en él, es que me da igual.", "category": "DESAHOGO"}
+{"text": "Me da miedo salir de esta y volver a caer, como un ciclo.", "category": "DESAHOGO"}
+{"text": "El fin de semana me prometo cambiar, y el lunes hago lo mismo de siempre.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es una película en blanco y negro, y yo no tengo el control remoto.", "category": "DESAHOGO"}
+{"text": "A veces bebo alcohol para relajarme, pero luego estoy más triste.", "category": "DESAHOGO"}
+{"text": "La falta de energía me hace sentir viejo, y tengo treinta años.", "category": "DESAHOGO"}
+{"text": "He dejado de soñar despierto porque hasta eso me cansa.", "category": "DESAHOGO"}
+{"text": "No es que no tenga ganas de vivir, es que no tengo ganas de hacer nada, y eso es similar.", "category": "DESAHOGO"}
+{"text": "Me duele la cabeza del estrés acumulado, y no sé cómo soltarlo.", "category": "DESAHOGO"}
+{"text": "A veces me enfado conmigo mismo por estar así, y eso me hunde más.", "category": "DESAHOGO"}
+{"text": "Siento que estoy perdiendo el tiempo, pero no sé en qué emplearlo.", "category": "DESAHOGO"}
+{"text": "El silencio en casa es ensordecedor, pero no tengo energía para poner música.", "category": "DESAHOGO"}
+{"text": "He empezado a hablar con las plantas, y ellas me escuchan más que la gente.", "category": "DESAHOGO"}
+{"text": "La tristeza me ha quitado el apetito, como una anorexia emocional.", "category": "DESAHOGO"}
+{"text": "Me da rabia que la gente no note que estoy mal porque finjo bien.", "category": "DESAHOGO"}
+{"text": "El lunes por la mañana siento un peso en el pecho que no es físico, pero duele.", "category": "DESAHOGO"}
+{"text": "He perdido la motivación para vestirme bien, ando en chándal siempre.", "category": "DESAHOGO"}
+{"text": "Siento que mi vida es un programa que se ejecuta en segundo plano, sin interacción.", "category": "DESAHOGO"}
+{"text": "A veces deseo un apagón general para tener excusa para no hacer nada.", "category": "DESAHOGO"}
+{"text": "El cuerpo me pide a gritos un descanso, pero la mente no para de dar vueltas.", "category": "DESAHOGO"}
+{"text": "He empezado a coleccionar frases tristes en mi móvil, como un diario de quejas.", "category": "DESAHOGO"}
+{"text": "No es que esté deprimido, es que estoy hastiado, como de la rutina de vivir.", "category": "DESAHOGO"}
+{"text": "Me duele la garganta de no llorar lo suficiente, como si las lágrimas se atoraran.", "category": "DESAHOGO"}
+{"text": "A veces como por ansiedad y luego me arrepiento, pero la ansiedad vuelve.", "category": "DESAHOGO"}
+{"text": "Siento que mi cerebro está en modo avión, pero no puedo desactivarlo.", "category": "DESAHOGO"}
+{"text": "El fin de semana me paso durmiendo y aun así estoy cansado el lunes.", "category": "DESAHOGO"}
+{"text": "He perdido la capacidad de reír de verdad, todo me parece chiste malo.", "category": "DESAHOGO"}
+{"text": "Me da rabia que la felicidad se me dé tan mal, como si fuera un músculo atrofiado.", "category": "DESAHOGO"}
+{"text": "¿Por qué en la arquitectura moderna se prioriza la función sobre la forma? ¿No hay espacio para la belleza desinteresada?", "category": "CONSULTA"}
+{"text": "Explícame la diferencia entre una red neuronal convolucional y una recurrente, pero como si tuviera 15 años.", "category": "CONSULTA"}
+{"text": "¿Cómo se demuestra formalmente que el problema de la parada es indecidible sin usar la diagonalización de Cantor?", "category": "CONSULTA"}
+{"text": "En electrónica, ¿por qué se usa el silicio como semiconductor en lugar de otros materiales como el germanio?", "category": "CONSULTA"}
+{"text": "¿Cuál es la relación epistemológica entre la teoría de juegos y la racionalidad limitada de Herbert Simon?", "category": "CONSULTA"}
+{"text": "Escribe un fragmento de código en Python que implemente el algoritmo de ordenamiento por mezcla de forma recursiva.", "category": "CONSULTA"}
+{"text": "¿Puede un sistema de IA generar conocimiento nuevo o solo reorganizar información existente? Desde una perspectiva kantiana.", "category": "CONSULTA"}
+{"text": "¿Cómo afecta la ley de Moore a la predicción de la singularidad tecnológica? ¿Hay consenso?", "category": "CONSULTA"}
+{"text": "Necesito entender la transformada de Fourier aplicada a señales discretas, no a las continuas. ¿Diferencias clave?", "category": "CONSULTA"}
+{"text": "¿Qué es el problema de la 'ventana de Overton' en filosofía política y cómo se relaciona con la arquitectura de la información?", "category": "CONSULTA"}
+{"text": "Dame un ejemplo de una función recursiva primitiva que no sea recursiva general, por favor.", "category": "CONSULTA"}
+{"text": "En teoría de la computación, ¿qué consecuencias tendría demostrar que P = NP en el cifrado asimétrico actual?", "category": "CONSULTA"}
+{"text": "¿Cómo se mide la 'capacidad de generalización' en redes neuronales? Háblame de la teoría Vapnik-Chervonenkis.", "category": "CONSULTA"}
+{"text": "Explícame el concepto de 'intencionalidad' en Searle y por qué su argumento de la habitación china critica a la IA fuerte.", "category": "CONSULTA"}
+{"text": "¿Cuál es la diferencia entre un autómata finito determinista y uno no determinista en términos de poder expresivo?", "category": "CONSULTA"}
+{"text": "Escribe una consulta SQL que obtenga los empleados cuyo salario sea mayor al promedio de su departamento, usando subconsultas correlacionadas.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'teorema de la incompletitud de Gödel' y cómo impacta en la idea de que la mente humana es una máquina computable?", "category": "CONSULTA"}
+{"text": "¿Por qué los procesadores modernos usan predicción de saltos y memorias caché de niveles? Explicación desde arquitectura de computadores.", "category": "CONSULTA"}
+{"text": "Dame la fórmula matemática del gradiente descendiente estocástico y explica intuitivamente por qué funciona.", "category": "CONSULTA"}
+{"text": "¿Cómo se justifica el uso de la navaja de Occam en el aprendizaje automático? ¿Es solo una preferencia estética?", "category": "CONSULTA"}
+{"text": "Necesito saber las diferencias entre los paradigmas de programación funcional y orientada a objetos, con ejemplos concretos.", "category": "CONSULTA"}
+{"text": "En termodinámica, ¿cuál es la interpretación estadística de la entropía de Boltzmann y cómo se aplica a la teoría de la información?", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el algoritmo de búsqueda A* y por qué es óptimo si la heurística es admisible?", "category": "CONSULTA"}
+{"text": "Explícame el dualismo cartesiano y sus críticas desde la neurociencia contemporánea.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'efecto hall' y cómo se usa en sensores de posición?", "category": "CONSULTA"}
+{"text": "Escribe una función en C++ que invierta una lista enlazada simple sin usar recursión.", "category": "CONSULTA"}
+{"text": "¿Cuál es el origen del teorema de Bayes? ¿Se puede derivar de principios más básicos?", "category": "CONSULTA"}
+{"text": "En inteligencia artificial, ¿qué son los 'modelos generativos adversariales' y por qué son difíciles de entrenar?", "category": "CONSULTA"}
+{"text": "Diferencia entre un microcontrolador y un microprocesador, y en qué caso usarías cada uno.", "category": "CONSULTA"}
+{"text": "¿Cómo se define formalmente la 'complejidad de Kolmogorov' y por qué es incomputable?", "category": "CONSULTA"}
+{"text": "Necesito un ejemplo de una paradoja en teoría de conjuntos que no sea la de Russell, como la de Burali-Forti.", "category": "CONSULTA"}
+{"text": "¿Qué es el problema de los 'dos cuerpos' en mecánica celeste y cómo lo resolvió Newton?", "category": "CONSULTA"}
+{"text": "Explícame el concepto de 'transfer learning' y cómo se aplica a redes neuronales preentrenadas.", "category": "CONSULTA"}
+{"text": "¿Cómo funciona internamente un transistor MOSFET? Nivel físico, no solo simbólico.", "category": "CONSULTA"}
+{"text": "Escribe un script en Bash que recorra todos los archivos de un directorio y cuente las líneas de cada uno.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'problema del marco' en IA simbólica y cómo intentó solucionarlo el enfoque de la lógica de situación?", "category": "CONSULTA"}
+{"text": "Dame la explicación de la doble rendija de Young desde la mecánica cuántica, con matemática sencilla.", "category": "CONSULTA"}
+{"text": "¿Por qué la mayoría de los lenguajes de programación usan tipado estático o dinámico? Ventajas y desventajas.", "category": "CONSULTA"}
+{"text": "En teoría de números, ¿cuál es la conjetura de Goldbach y cuál es su estado actual?", "category": "CONSULTA"}
+{"text": "¿Cómo se relaciona la arquitectura de von Neumann con la figura de Turing? ¿Son equivalentes?", "category": "CONSULTA"}
+{"text": "Necesito entender el algoritmo de Dijkstra para caminos mínimos, pero con un ejemplo paso a paso de un grafo pequeño.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'principio de incertidumbre' de Heisenberg y qué implicaciones tiene para la computación cuántica?", "category": "CONSULTA"}
+{"text": "Explícame la diferencia entre un sistema operativo de tiempo real (RTOS) y uno de propósito general como Linux.", "category": "CONSULTA"}
+{"text": "¿Cómo se demuestra el teorema chino del resto? Necesito la prueba constructiva.", "category": "CONSULTA"}
+{"text": "En filosofía de la ciencia, ¿qué es el 'falsacionismo' de Popper y cómo se aplica a la teoría de la evolución?", "category": "CONSULTA"}
+{"text": "Escribe una expresión regular que valide direcciones de correo electrónico según la RFC 5322, lo más exacta posible.", "category": "CONSULTA"}
+{"text": "¿Qué es una memoria RAM dinámica vs estática? Ventajas de cada una en diseño de hardware.", "category": "CONSULTA"}
+{"text": "Dame un ejemplo de una función que sea continua en todas partes pero derivable en ninguna, como la función de Weierstrass.", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el 'protocolo TCP' para garantizar la entrega fiable de datos? Habla de los números de secuencia y ACKs.", "category": "CONSULTA"}
+{"text": "En IA, ¿qué es el problema de la 'alineación de valores' y qué propuestas existen para resolverlo?", "category": "CONSULTA"}
+{"text": "¿Por qué el número pi es irracional? Dame una demostración intuitiva.", "category": "CONSULTA"}
+{"text": "Explícame la diferencia entre un compilador y un intérprete, con ejemplos de lenguajes que usan cada uno.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'teorema del límite central' y por qué es importante en estadística?", "category": "CONSULTA"}
+{"text": "Necesito saber cómo se construye un decodificador de direcciones para una memoria caché. Conceptos de mapeo directo.", "category": "CONSULTA"}
+{"text": "Escribe un programa en Java que implemente el patrón de diseño Singleton de manera segura para múltiples hilos.", "category": "CONSULTA"}
+{"text": "¿Cuál es la diferencia entre los conceptos de 'inducción' y 'abducción' en lógica?", "category": "CONSULTA"}
+{"text": "En criptografía, ¿qué es el cifrado de curva elíptica y por qué es más eficiente que RSA?", "category": "CONSULTA"}
+{"text": "¿Cómo se define la 'derivada direccional' de una función multivariable y qué relación tiene con el gradiente?", "category": "CONSULTA"}
+{"text": "Explícame el problema de la 'estación oculta' en redes inalámbricas y cómo lo resuelve el protocolo CSMA/CA.", "category": "CONSULTA"}
+{"text": "¿Qué es la 'paradoja de Fermi' y cuáles son las hipótesis más sólidas para explicarla?", "category": "CONSULTA"}
+{"text": "Dame un ejemplo de código en Rust que demuestre el concepto de 'ownership' y préstamos (borrowing).", "category": "CONSULTA"}
+{"text": "¿Cómo funciona el algoritmo de ordenamiento rápido (quicksort) y cuál es su peor caso?", "category": "CONSULTA"}
+{"text": "En teoría de autómatas, ¿qué es un lenguaje regular y cómo se diferencia de uno libre de contexto?", "category": "CONSULTA"}
+{"text": "Necesito entender el concepto de 'backpropagation' en redes neuronales con la regla de la cadena paso a paso.", "category": "CONSULTA"}
+{"text": "¿Qué es el 'principio de exclusión de Pauli' y cómo determina la estructura de la tabla periódica?", "category": "CONSULTA"}
+{"text": "Explícame la diferencia entre una arquitectura RISC y CISC, con ejemplos de procesadores.", "category": "CONSULTA"}
+{"text": "¿Cómo se calcula el número de Euler e usando series infinitas? Dame la fórmula.", "category": "CONSULTA"}
+{"text": "En inteligencia artificial, ¿qué son los 'modelos ocultos de Markov' y para qué se usan?", "category": "CONSULTA"}
+{"text": "Escribe una consulta en MongoDB que haga un aggregate con $match y $group, por ejemplo, para contar documentos por categoría.", "category": "CONSULTA"}
+{"text": "¿Cuál es la diferencia entre un sistema de numeración posicional y uno no posicional? Ejemplos.", "category": "CONSULTA"}
+{"text": "¿Cómo se prueba que la raíz cuadrada de 2 es irracional? Dame la prueba geométrica antigua.", "category": "CONSULTA"}
+{"text": "En electrónica digital, ¿qué es un flip-flop tipo D y cómo se construye con compuertas NAND?", "
