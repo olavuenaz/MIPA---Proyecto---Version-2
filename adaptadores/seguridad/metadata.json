@@ -1,0 +1,7 @@
+{
+  "arquetipo": "seguridad",
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "fecha": "2026-01-19T09:58:10.119242",
+  "ejemplos": 30,
+  "duracion_min": 2.55
+}

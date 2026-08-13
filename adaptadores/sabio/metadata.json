@@ -1,0 +1,7 @@
+{
+  "arquetipo": "sabio",
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "fecha": "2026-01-19T09:55:34.213860",
+  "ejemplos": 30,
+  "duracion_min": 2.46
+}
