@@ -1,0 +1,32 @@
+{
+    "user_vulnerable": {
+        "nombre": "Sujeto A",
+        "ocean_traits": {
+            "O": 0.4,
+            "C": 0.3,
+            "E": 0.2,
+            "A": 0.6,
+            "N": 0.95
+        }
+    },
+    "user_curioso": {
+        "nombre": "Sujeto B",
+        "ocean_traits": {
+            "O": 0.9,
+            "C": 0.8,
+            "E": 0.85,
+            "A": 0.7,
+            "N": 0.1
+        }
+    },
+    "user_control": {
+        "nombre": "Usuario C",
+        "ocean_traits": {
+            "O": 0.5,
+            "C": 0.5,
+            "E": 0.5,
+            "A": 0.5,
+            "N": 0.5
+        }
+    }
+}

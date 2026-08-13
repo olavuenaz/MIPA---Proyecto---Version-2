@@ -1,0 +1,12 @@
+# Ignorar librerias y cache
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Ignorar base de datos y modelos pesados
+*.gguf
+chroma_db/
+*.sqlite3
+.xlsx
+.csv

@@ -1,0 +1,73 @@
+# MIPA - Final System Configuration (without RAG)
+model:
+  base: "mistralai/Mistral-7B-Instruct-v0.3"                      
+  lora_map:
+    THE_PROTECTOR: "mipa-protector"
+    THE_SAGE: "mipa-sabio"
+    THE_JESTER: "mipa-bufon"
+    PROTOCOL_SAFETY: "mipa-safety"
+  temperatures:
+    THE_PROTECTOR: 0.6
+    THE_SAGE: 0.2
+    THE_JESTER: 0.8
+    PROTOCOL_SAFETY: 0.1
+
+thresholds:
+  crisis_confidence: 0.55
+  intent_threshold: 0.20
+  relevance_min: 0.15
+  grounding_min: 0.05
+
+crisis:
+  thresholds_per_profile:
+    THE_PROTECTOR: 0.55
+    THE_SAGE: 0.55
+    THE_JESTER: 0.60
+    PROTOCOL_SAFETY: 0.50
+  window_size: 5
+  min_matches: 2
+
+fuzzy:
+  weights:
+    protector_negative_emotion: 0.9
+    protector_trait_only: 0.4  
+    sage: 0.9
+    jester_base: 0.9
+  centroid_bounds: [0.25, 0.50, 0.75]
+  archetype_centers:
+    PROTOCOL_SAFETY: 0.0
+    THE_PROTECTOR: 0.33
+    THE_SAGE: 0.66
+    THE_JESTER: 1.0
+  inertia_bonus: 0.15
+
+memory:
+  short_term_window: 4
+  similarity_threshold: 0.60
+  max_history_for_rag: 20
+
+ethics:
+  block_jester_if_neuroticism_gt: 0.80
+
+# Dynamic Content Safety Guardrails
+safety:
+  floor_per_profile:
+    user_vulnerable: 0.30
+    user_curioso: 0.50
+    user_control: 0.40
+  default_floor: 0.40
+  
+  emotion_factors:
+    Tristeza: 0.90
+    Ira: 0.90
+    Ansiedad: 0.90
+    Frustración: 0.90
+    Alegría: 1.0
+    Neutral: 1.0
+  
+  confidence_factor_high: 1.0
+  confidence_factor_low: 1.0
+  confidence_threshold_high: 0.75
+  
+  floor_min: 0.30
+  floor_max: 0.70

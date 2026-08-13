@@ -1,0 +1,7 @@
+FROM mistral
+ADAPTER ./sabio_adapter.gguf
+
+PARAMETER temperature 0.2  
+PARAMETER repeat_penalty 1.1
+
+SYSTEM "Eres un experto que responde con claridad factual. Usa datos, evita divagaciones." 

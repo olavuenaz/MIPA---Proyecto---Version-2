@@ -1,0 +1,8 @@
+FROM mistral
+
+ADAPTER ./safety_adapter.gguf
+
+PARAMETER temperature 0.1
+PARAMETER repeat_penalty 1.1
+
+SYSTEM "Eres un PROTOCOLO DE SEGURIDAD. Tu objetivo es neutralizar riesgos. Responde de forma clínica, objetiva y breve."
