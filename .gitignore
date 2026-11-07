@@ -1,12 +1,68 @@
-# Ignorar librerias y cache
+
+# Python: cache y archivos compilados
 __pycache__/
 *.py[cod]
-venv/
-.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# Ignorar base de datos y modelos pesados
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Modelos y checkpoints
 *.gguf
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Bases de datos locales
 chroma_db/
+*.sqlite
 *.sqlite3
-.xlsx
-.csv
+*.db
+
+# Archivos generados
+build/
+dist/
+*.egg-info/
+logs/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Datos locales (revisar excepciones)
+data/private/
+data/raw/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Diagnósticos locales
+dependencias_instaladas.txt
+dependencias_mipa_venv.txt
+archivos_proyecto.txt
+estructura_proyecto.txt
+
+# Registros de conversaciones generados por MIPA
+data_memory/logs/
+
+# Índices de memoria generados
+data_memory/*/
+
+# Mantener archivos JSON sintéticos de prueba
+!data_memory/user_profiles.json
+!data_memory/Escenarios.json
+!data_memory/templates.json
